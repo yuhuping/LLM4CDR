@@ -1,0 +1,1007 @@
+[
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"How to Beat the High Cost of Living\"、\"Looking for Mr. Goodbar [VHS]\"、\"Norma Jean &amp; Marilyn [VHS]\"、\"Freebie and The Bean [VHS]\"、\"Magic [VHS]\"、\"The Nomi Song - The Klaus Nomi Odyssey\"、\"Breakfast on Pluto\"、\"Secrets &amp; Lies [VHS]\"、\"All Or Nothing (2002)\"、\"The Tomorrow Show - Punk &amp; New Wave\"、\"Maurice [VHS]\"、\"Stepford Wives [VHS]\"、\"Funny Face [VHS]\"、\"The Shining [VHS]\"、\"Mahogany [VHS]\"、\"Benny's Video\"、\"The Jam - The Complete Jam\"、\"Gay Sex in the 70s\"\nTarget Music: \"Cupid &amp; Psyche 85\"\nSimilarity Score: 0.7743\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Identity\"、\"Saw II - Unrated (Two-Disc Special Edition)\"、\"Charlie's Angels: Season 3\"、\"Batman (1989)\"、\"Hitman Hart: Wrestling with Shadows [VHS]\"、\"Trace Adkins - Video Hits\"、\"Hank Williams: Honky Tonk Blues\"、\"Garth Brooks - The Entertainer\"、\"Kill Bill, Vol. 1\"、\"The Good, the Bad and the Ugly [VHS]\"、\"Charlie's Angels: Season 1\"、\"Pirates of the Caribbean: The Curse of the Black Pearl (Two-Disc Collector's Edition)\"、\"My Name is Earl: Season 1\"、\"Waylon Jennings  - Live from Austin, TX\"、\"Remember the Titans [VHS]\"\nTarget Music: \"Tears Of Fire: The 25th Anniversary Collection\"\nSimilarity Score: 0.7186\n",
+    "output": "3.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Smallville: Season 3\"、\"Veronica Mars: Season 1\"、\"Smallville: The Complete 4th Season\"、\"Shrek 2 [VHS]\"、\"Fushigi Yugi - The Mysterious Play:  Box Set 1 - Suzaku (Episodes 1-26)\"、\"Fushigi Yugi - The Mysterious Play - The Priestess of Seiryu (Vol. 4) [VHS]\"、\"Fushigi Yugi - The Mysterious Play: Box Set 3 - OVA\"、\"Grey's Anatomy - Season 1 DVD (2005)\"、\"Smallville: Season 1\"、\"Interstella 5555 - The 5tory Of The 5ecret 5tar 5ystem\"、\"Smallville: Season 2\"\nTarget Music: \"Human After All\"\nSimilarity Score: 0.7448\n",
+    "output": "3.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Princess and the Warrior\"、\"The Last Broadcast [VHS]\"、\"Far from Heaven\"、\"Wicker Man [VHS]\"、\"Last Night\"、\"Mulholland Dr.\"、\"Heaven\"、\"Blue Velvet [VHS]\"、\"Amelie\"、\"Bowling For Columbine [VHS]\"、\"Training Day [VHS]\"、\"Ghost World\"、\"Fear X\"、\"Requiem for a Dream - Director's Cut\"、\"Lone Star [VHS]\"、\"Elling\"\nTarget Music: \"Legendary Grape\"\nSimilarity Score: 0.7198\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"They Live\"、\"Creepshow 2 [VHS]\"、\"Pocahontas (Walt Disney's Masterpiece) [VHS]\"、\"The Secret of My Success\"、\"Mother's Day\"、\"Black Christmas\"、\"TaleSpin, Volume 1\"、\"Halloween 2 [VHS]\"、\"Chip 'n Dale Rescue Rangers - Volume 2\"、\"The Initiation\"、\"Slumber Party Massacre\"、\"Chip 'n Dale Rescue Rangers - Volume 1\"、\"Creepshow (Snap Case Packaging)\"、\"Tourist Trap\"、\"Halloween\"\nTarget Music: \"Electric Circus\"\nSimilarity Score: 0.6349\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Diana Krall - Live at the Montreal Jazz Festival\"、\"Chris Botti - Live - With Orchestra &amp; Special Guests\"、\"One Night Only - Rod Stewart Live at Royal Albert Hall\"、\"An American in Paris [VHS]\"、\"Carly Simon - A Moonlight Serenade On The Queen Mary 2\"、\"Tony Bennett - MTV Unplugged: The Video\"、\"Richard Rodgers - The Sweetest Sounds\"、\"Casablanca [VHS]\"、\"Count Basie at Carnegie Hall\"\nTarget Music: \"Rendezvous\"\nSimilarity Score: 0.5818\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"South Park - Bigger, Longer &amp; Uncut [VHS]\"、\"Porky's [VHS]\"、\"John Waters Collection #3: Pink Flamingos/ Female Trouble\"、\"Love Valour Compassion [VHS]\"、\"Girl, Interrupted [VHS]\"、\"John Waters Collection #1: Hairspray/ Pecker (Special Edition)\"、\"Survivor - Season One: The Greatest and Most Outrageous Moments [VHS]\"、\"101 Dalmatians (Widescreen) &amp; 102 Dalmatians (Full Screen) - 2 Pack\"、\"Pecker\"\nTarget Music: \"Dr. Demento Presents: Greatest Christmas Novelty CD\"\nSimilarity Score: 0.6538\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"the Wild Geese [VHS]\"、\"Death Hunt [VHS]\"、\"Fried Green Tomatoes [VHS]\"、\"The Eagle Has Landed [VHS]\"、\"Luther\"、\"Predator 2 [VHS]\"、\"Sliding Doors [VHS]\"、\"Sahara (Widescreen Edition)\"、\"Last Valley [VHS]\"、\"The Best of Ringo Starr &amp; His All Starr Band So Far...\"、\"Caddyshack - 19th Anniversary Edition [VHS]\"、\"Happy Times\"、\"Smoke Signals [VHS]\"、\"Dodgeball - A True Underdog Story (Full Screen Edition)\"、\"One Man's Hero [VHS]\"、\"The Station Agent\"、\"Ronin [VHS]\"、\"Wicked Spring\"、\"The Young and the Dead\"、\"Cold Mountain [VHS]\"\nTarget Music: \"Picture\"\nSimilarity Score: 0.6488\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Pierrot Le Fou [VHS]\"、\"Rosetta [VHS]\"、\"Batman Begins (Single-Disc Widescreen Edition)\"、\"RoboBox\"、\"The Machinist\"、\"War of the Worlds\"、\"Batman Returns (1992)\"、\"Down to the Bone\"、\"Terminator 2: Judgment Day\"、\"Black Rain [VHS]\"、\"La Notte\"、\"Dumb and Dumber\"、\"Bram Stoker's Dracula (Widescreen Edition) [VHS]\"、\"Koyaanisqatsi [VHS]\"、\"Cars (Single-Disc Widescreen Edition)\"、\"L'Eclisse (The Criterion Collection)\"、\"Wagner - Lohengrin (remastered)\"\nTarget Music: \"Strauss: Four Last Songs; 12 Orchestral Songs (Great Recordings of the Century)\"\nSimilarity Score: 0.6086\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Seinfeld: Season 7\"、\"WWE: Bret &quot;Hitman&quot; Hart - The Best There Is, The Best There Was, The Best There Ever Will Be\"、\"Oz: Season 6\"、\"Rush - R30\"、\"Sanford and Son - The Second Season\"、\"Seinfeld: Season 3\"、\"Oz: Season 4\"、\"The Jetsons - The Complete First Season\"、\"Oz: Season 3\"、\"Seinfeld: Season 6\"、\"WWE: The Ultimate Ric Flair Collection\"、\"Seinfeld: Season 5\"、\"Sanford and Son - The First Season\"、\"Seinfeld - Seasons One &amp; Two\"、\"Seinfeld: Season 4\"、\"Oz: Season 5\"、\"Sanford and Son - The Third Season\"、\"Steely Dan - Two Against Nature - DTS 5.1\"\nTarget Music: \"'68 Comeback Special: Ignition\"\nSimilarity Score: 0.7399\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Entrapment [VHS]\"、\"Cats &amp; Dogs (Full Screen Edition)\"、\"Desperado\"、\"Finding Forrester\"、\"Buffy The Vampire Slayer - The Complete First Season\"、\"The Haunting\"、\"Gone in 60 Seconds\"、\"Disturbing Behavior [VHS]\"、\"We Were Soldiers (Widescreen Edition)\"、\"The Others (Two-Disc Collector's Edition)\"、\"8mm [VHS]\"、\"Bedazzled\"、\"Ever After - A Cinderella Story [VHS]\"、\"Analyze This [VHS]\"、\"American Pie - Rated Edition (Special Edition) [VHS]\"、\"Pearl Harbor (Two-Videotape Set) (60th Anniversay Commemorative Edition) [VHS]\"、\"High Plains Drifter\"、\"Legally Blonde\"、\"Coyote Ugly\"\nTarget Music: \"Godsmack\"\nSimilarity Score: 0.5932\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Newsies [VHS]\"、\"Twister\"、\"It Happened One Night [VHS]\"、\"Big Eden\"、\"Star Trek Deep Space Nine - The Complete First Season\"、\"Adam &amp; Steve (2005)\"、\"Hey Mr. Producer!: The Musical World of Cameron Mackintosh\"、\"Star Trek The Next Generation - The Complete First Season\"、\"Latter Days (Unrated Edition)\"、\"Jane Olivor - Safe Return\"、\"Richard Rodgers - Some Enchanted Evening\"、\"Ugly Betty: Season 1\"、\"Ellen - The Complete Season Three\"、\"The Illusionist (Full Screen Edition)\"、\"Star Trek The Next Generation - The Complete Third Season\"、\"Linda Eder - Christmas Stays the Same\"、\"Lea Salonga - The Broadway Concert\"、\"Last Holiday\"\nTarget Music: \"Liza Live From Radio City Music Hall [VHS]\"\nSimilarity Score: 0.5691\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"WWF: WrestleMania V [VHS]\"、\"WWF SummerSlam 1997 [VHS]\"、\"WWF: Royal Rumble 1998 [VHS]\"、\"Predator [VHS]\"、\"Star Wars - Episode IV, A New Hope [VHS]\"、\"WWF: Survivor Series 1995 [VHS]\"、\"WWE - The History of WrestleMania I-IX, 1985-1993\"、\"WWF WrestleMania X8\"、\"WWF: WrestleMania 13 [VHS]\"、\"Survivor Series:6th Annual [VHS]\"、\"WWF: WrestleMania XII [VHS]\"、\"WWF: WrestleMania VI [VHS]\"、\"Smokey and the Bandit\"、\"WWF: WrestleMania X [VHS]\"、\"The Great Outdoors\"、\"Poltergeist\"、\"Untamed Heart [VHS]\"、\"WWF: WrestleMania VII [VHS]\"、\"The Jerk\"、\"WWF: SummerSlam 1998 - Highway To Hell [VHS]\"\nTarget Music: \"Pure Country [Original Motion Picture Soundtrack]\"\nSimilarity Score: 0.7146\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Wedding Crashers (R-Rated Widescreen Edition)\"、\"Tyler Perry's Meet the Browns: The Play\"、\"Tyler Perry's Madea's Class Reunion - The Play\"、\"Ray (Widescreen Edition)\"、\"The Manchurian Candidate (Widescreen Edition)\"、\"Diary of a Mad Black Woman (Stage Play)\"、\"The 40-Year-Old Virgin (Unrated Widescreen Edition)\"、\"The Color Purple\"、\"Kill Bill, Vol. 1\"\nTarget Music: \"Motown Two\"\nSimilarity Score: 0.7522\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Street Trash [VHS]\"、\"Seed of Chucky (Unrated And Fully Extended)\"、\"The Incubus\"、\"The Cook, the Thief, His Wife and Her Lover [VHS]\"、\"Henry: Portrait of a Serial Killer [VHS]\"、\"Body Melt\"、\"Blue Velvet [VHS]\"、\"Pieces [VHS]\"、\"Don't Answer the Phone! (The Uncut Version)\"、\"Skinny Puppy: The Greater Wrong of the Right, Live\"、\"Friday the 13th: From Crystal Lake to Manhattan Ultimate Collection (Part 1 / Part 2 / Part 3 / Part IV: The Final Chapter / Part V: A New Beginning / Part VI: Jason Lives / Part VII: The New Blood / Part VIII: Jason Takes Manhattan)\"、\"Pet Sematary 2 [VHS]\"、\"Dead Ringers (The Criterion Collection)\"、\"Luther the Geek\"、\"Crimes of Passion\"、\"Return of the Living Dead 2 [VHS]\"、\"Lifeforce [VHS]\"、\"The Texas Chainsaw Massacre 2 [VHS]\"、\"Mortuary [VHS]\"、\"Cannibal\"\nTarget Music: \"Unquiet Grave 1\"\nSimilarity Score: 0.5434\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Dark Star [VHS]\"、\"The Sopranos - The Complete First Season [VHS]\"、\"The Complete Prisoner Megaset\"、\"The Young Ones: Every Stoopid Episode\"、\"The Simpsons: The Complete First Season\"、\"The Incredibles (Mandarin Chinese Edition)\"、\"Full Bottom: Not Another Half-Arsed DVD Set!\"、\"The Good, the Bad and the Ugly [VHS]\"、\"Fahrenheit 9/11\"、\"GoldenEye (Special Edition)\"、\"The Sopranos: Season 2\"、\"Monty Python and the Holy Grail\"、\"My Name Is Nobody [VHS]\"、\"Yes Acoustic: Guaranteed No Hiss\"、\"Enter the Dragon [VHS]\"、\"The Mary Tyler Moore Show - The Complete Second Season (1971)\"\nTarget Music: \"Captain Beyond\"\nSimilarity Score: 0.8773\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Beavis and Butt-head - The Mike Judge Collection, Vol. 3\"、\"Sealab 2021 - Season 1\"、\"The Brak Show, Vol. 1\"、\"The Simpsons: Season 6\"、\"The Ren &amp; Stimpy Show: The First and Second Season (Uncut)\"、\"South Park: Season 5\"、\"Beavis and Butt-head: The Final Judgement\"、\"The Ren and Stimpy Show - Seasons Three and a Half-ish\"、\"The Critic - The Complete Series\"、\"Beavis and Butt-head - The Mike Judge Collection, Vol .2\"、\"South Park - The Complete Second Season\"、\"South Park - The Complete First Season\"、\"South Park: The Complete Seventh Season [DVD]\"、\"Bowfinger [VHS]\"、\"Sealab 2021 - Season 2\"、\"The Brak Show, Vol. 2\"、\"The Simpsons - The Complete Ninth Season\"、\"The Ren &amp; Stimpy Show - Season Five and Some More of Four\"、\"South Park: Season 3\"、\"Nutty Professor II - The Klumps (Collector's Edition) [VHS]\"\nTarget Music: \"Enjoy\"\nSimilarity Score: 0.4187\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Doobie Brothers - Rockin Down the Highway: The Wildlife Concert\"、\"Forbidden Planet [VHS]\"、\"Kolchak - The Night Stalker\"、\"Die Another Day (Widescreen Special Edition)\"、\"The Lost Skeleton of Cadavra (Special Edition)\"、\"Tingler [VHS]\"、\"Invaders from Mars [VHS]\"、\"Police Squad! The Complete Series\"、\"The Sons of Katie Elder [VHS]\"、\"The Beast From 20,000 Fathoms / Them! (Double Feature)\"、\"Open Range\"、\"Soupy Sales Collection: The Whole Gang Is Here!\"、\"Earth vs the Flying Saucers [VHS]\"、\"Rio Lobo [VHS]\"、\"Doobie Brothers: Live at Wolf Trap\"、\"Cowboys [VHS]\"、\"Pirates of the Caribbean: The Curse of the Black Pearl (Two-Disc Collector's Edition)\"、\"Ed Wood [VHS]\"、\"Outlaw Josey Wales [VHS]\"、\"A Time to Kill\"\nTarget Music: \"Motown\"\nSimilarity Score: 0.7868\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Flashdance [VHS]\"、\"National Geographic - Sky Monsters\"、\"Batman (1989)\"、\"From Jesus to Christ - The First Christians [VHS]\"、\"Star Wars - Episode VI, Return of the Jedi [VHS]\"、\"Paul McCartney - Live in Red Square\"、\"Kung Fu: Season 1\"、\"Never Say Never Again [VHS]\"、\"Xena: Warrior Princess: Season 1 (Deluxe Collector's Edition)\"、\"Star Trek IV - The Voyage Home [VHS]\"、\"The Naked Gun 2 1/2 - The Smell of Fear\"、\"Star Trek II - The Wrath of Khan [VHS]\"、\"Star Trek III - The Search for Spock [VHS]\"、\"Shakira: Live &amp; Off The Record\"、\"Rocky &amp; Bullwinkle &amp; Friends: Complete Season 1\"、\"Spy Kids 2: The Island of Lost Dreams (Collector's Series)\"、\"Wolf Man [VHS]\"\nTarget Music: \"Led Zeppelin 1\"\nSimilarity Score: 0.9609\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Enigma - MCMXC a. D. - The Complete Album DVD\"、\"Nickelback - Live at Home\"、\"Staind: The Videos\"、\"Enigma - Remember the Future\"、\"Staind: MTV Unplugged\"、\"Pearl Jam - Touring Band 2000\"、\"On the Beach [VHS]\"、\"Live 8 at Eden - Africa Calling\"、\"Evanescence - Anywhere But Home\"、\"Red Hot Chili Peppers - Off the Map\"、\"28 Days Later (Widescreen Special Edition)\"、\"Music in High Places - The Calling (Live in Italy)\"、\"VNV Nation: PastPerfect (Special Edition)\"\nTarget Music: \"One Thing Remains\"\nSimilarity Score: 0.7345\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Foghat Live - Two Centuries of Boogie\"、\"Simply Irresistible [VHS]\"、\"The Eagles - Farewell 1 Tour - Live From Melbourne\"、\"The Marshall Tucker Band - Live From the Garden State 1981\"、\"Live in Houston 1981: The Escape Tour [UMD for PSP]\"、\"Lynyrd Skynyrd - Freebird The Movie / Tribute Tour\"、\"Bruce Springsteen &amp; the E Street Band - Live in New York City\"、\"Molly Hatchet - Live In Hamburg 2004 (DVD/CD)\"、\"Scooby-Doo (Widescreen Edition)\"、\"Lynyrd Skynyrd - Lyve- The Vicious Cycle Tour\"、\"Robin Trower - Living Out of Time: Live\"\nTarget Music: \"Capitol Collectors Series: Grand Funk Railroad\"\nSimilarity Score: 0.7818\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Seinfeld: Season 7\"、\"WWE: Bret &quot;Hitman&quot; Hart - The Best There Is, The Best There Was, The Best There Ever Will Be\"、\"Oz: Season 6\"、\"Rush - R30\"、\"Sanford and Son - The Second Season\"、\"Seinfeld: Season 3\"、\"Oz: Season 4\"、\"The Jetsons - The Complete First Season\"、\"Oz: Season 3\"、\"Seinfeld: Season 6\"、\"WWE: The Ultimate Ric Flair Collection\"、\"Seinfeld: Season 5\"、\"Sanford and Son - The First Season\"、\"Seinfeld - Seasons One &amp; Two\"、\"Seinfeld: Season 4\"、\"Oz: Season 5\"、\"Sanford and Son - The Third Season\"、\"Steely Dan - Two Against Nature - DTS 5.1\"\nTarget Music: \"Living With War\"\nSimilarity Score: 0.7512\n",
+    "output": "3.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Skindeep [VHS]\"、\"When a Man Loves a Woman [VHS]\"、\"Every Time We Say Goodbye [VHS]\"、\"Born Free\"、\"The Cincinnati Reds 1975 World Series (Collector's Edition)\"、\"Dad [VHS]\"、\"Cyndi Lauper - Live... At Last (DVD in Amray Case Packaging)\"、\"Big [VHS]\"、\"Styx and the Contemporary Youth Orchestra of Cleveland: One With Everything\"\nTarget Music: \"Fate of Nations\"\nSimilarity Score: 0.7180\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Pirates of the Caribbean: The Curse of the Black Pearl (Two-Disc Collector's Edition)\"、\"Petticoat Junction - Ultimate Collection\"、\"The Complete Monterey Pop Festival (The Criterion Collection)\"、\"The Patriot (Special Edition)\"、\"Back to the Future - The Complete Trilogy (Full Screen Edition)\"、\"Nicholas Nickleby\"、\"Love Letter [VHS]\"、\"Ride with the Devil\"、\"Friendly Persuasion [VHS]\"、\"The American Revolution (History Channel)\"、\"The Little House on the Prairie\"、\"An American Christmas Carol [VHS]\"、\"Gettysburg [VHS]\"、\"Kate &amp; Leopold\"、\"A Christmas Carol [VHS]\"、\"Pearl Harbor (Two-Videotape Set) (60th Anniversay Commemorative Edition) [VHS]\"、\"The Two Worlds of Jennie Logan [VHS]\"、\"The Beatles: A Hard Day's Night [VHS]\"、\"A Christmas Carol\"、\"Gods &amp; Generals\"\nTarget Music: \"Chieftans Christmas: The Bells of Dublin\"\nSimilarity Score: 0.8020\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Unfaithful (Widescreen Edition)\"、\"Northern Exposure - The Complete First Season\"、\"Wild at Heart [VHS]\"、\"Twin Peaks -  Premiere Episode [VHS]\"、\"Fantastic Four (Widescreen Edition)\"、\"Tapeheads\"、\"Superman the Movie [VHS]\"、\"Mean Girls (Widescreen Edition)\"、\"Coldplay - Live 2003 (DVD &amp; CD)\"、\"Bad Santa\"、\"Aerosmith: Big Ones You Can Look at [VHS]\"、\"Requiem for a Dream - Director's Cut\"、\"Tenacious D - The Complete Master Works\"、\"Shameless: Season 1\"\nTarget Music: \"More Than This: The Best Of Bryan Ferry &amp; Roxy Music\"\nSimilarity Score: 0.7013\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Thirteen Days (Infinifilm Edition)\"、\"Road to Perdition (Widescreen Edition)\"、\"Saving Private Ryan [VHS]\"、\"JFK - Special Edition Director's Cut\"、\"Mean Machine\"、\"School of Rock (Full Screen Edition)\"、\"A Few Good Men [VHS]\"、\"Band of Brothers [VHS]\"、\"Ocean's Eleven (Full Screen Edition)\"、\"Monsters, Inc. [VHS]\"、\"Robin Williams - Live on Broadway\"、\"Blues Brothers [VHS]\"、\"Forrest Gump [VHS]\"、\"The Godfather Collection [VHS]\"、\"The Sandlot [VHS]\"、\"Remember the Titans [VHS]\"、\"The Third Man (50th Anniversary Edition) [VHS]\"、\"Hoosiers\"\nTarget Music: \"Nellyville\"\nSimilarity Score: 0.6925\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"That One Night - Live in Buenos Aires\"、\"Motley Crue: Carnival of Sins\"、\"The Rolling Stones - Four Flicks\"、\"M&ouml;tley Cr&uuml;e - Greatest Video Hits\"、\"Rush: Exit...Stage Left\"、\"We Rock\"、\"The 2006 Rose Bowl National Championship\"、\"Dio - Evil or Divine\"、\"Freeway [VHS]\"\nTarget Music: \"Dungeons Are Calling\"\nSimilarity Score: 0.8787\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Science of Sleep\"、\"Before Sunset\"、\"The Nightmare on Elm Street Collection (New Line Platinum Series)\"、\"AFI: I Heard a Voice\"、\"Lost Highway [VHS]\"、\"Jaws [VHS]\"、\"Tim Burton's Corpse Bride (Full Screen Edition)\"、\"Twin Peaks: Fire Walk With Me [VHS]\"、\"My So-Called Life: Complete Series\"、\"Arrested Development: Season 3\"、\"Apocalypse Now [VHS]\"、\"Dazed and Confused\"、\"Veronica Mars: Season 2\"、\"Snakes on a Plane (Widescreen Edition)\"、\"Nine Inch Nails - Live -  Beside You in Time\"、\"Idlewild (Widescreen Edition)\"、\"Fear &amp; Loathing in Las Vegas [VHS]\"、\"Saved!\"、\"Requiem for a Dream - Director's Cut\"\nTarget Music: \"Rise &amp; Fall of Butch Walker &amp; The Let's-Go-Out-Tonites\"\nSimilarity Score: 0.4778\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Ghost [VHS]\"、\"Roots 6 Video Box Set [VHS]\"、\"Tuskegee Airmen [VHS]\"、\"Cleopatra [VHS]\"、\"The Robe [VHS]\"、\"Dark Shadows DVD Collection 1\"、\"Spartacus\"、\"Mandingo [VHS]\"、\"The Green Mile [VHS]\"、\"Antony and Cleopatra\"\nTarget Music: \"Give Love at Christmas\"\nSimilarity Score: 0.5997\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Weeds: Season 1\"、\"Big Love: Season 1\"、\"Eternal Sunshine Of The Spotless Mind\"、\"Capote\"、\"Broken Flowers\"、\"Brokeback Mountain\"、\"David Byrne - Live at Union Chapel\"、\"Stranger Than Fiction\"、\"Truman Show [VHS]\"、\"Neil Young - Red Rocks Live / Friends + Relatives (DVD)\"、\"The Wild Parrots of Telegraph Hill\"\nTarget Music: \"No Other Love\"\nSimilarity Score: 0.7279\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Underdog (Collector's Edition)\"、\"Gamera vs. Monster X / Monster from a Prehistoric Planet\"、\"Sleepy Hollow\"、\"Seven Faces of Dr. Lao\"、\"The Ten Commandments\"、\"Nosferatu [VHS]\"、\"Dead Man [VHS]\"、\"The Mists of Avalon\"、\"Kiki's Delivery Service [VHS]\"\nTarget Music: \"The Look of Love\"\nSimilarity Score: 0.7601\n",
+    "output": "2.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Tailor of Panama [VHS]\"、\"The Rachel Papers [VHS]\"、\"Palmetto\"、\"Bowfinger [VHS]\"、\"This Is Spinal Tap (The Criterion Collection)\"、\"The Virgin Suicides\"、\"Showgirls\"、\"Blow [VHS]\"、\"Joe Dirt\"、\"Say Anything [VHS]\"、\"The War Room\"\nTarget Music: \"Everyday\"\nSimilarity Score: 0.7188\n",
+    "output": "3.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The City of Lost Children [VHS]\"、\"Moon Child\"、\"Irreversible\"、\"Versus (Special Edition)\"、\"Gozu\"、\"Under the Cherry Moon [VHS]\"、\"Ichi the Killer (Uncut Special Edition)\"、\"Returner\"、\"Crazy Lips\"、\"City of God\"、\"Carandiru\"\nTarget Music: \"Front By Front\"\nSimilarity Score: 0.7172\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Fear\"、\"Prison Break - Season One\"、\"Derailed (Unrated Widescreen)\"、\"Lost - The Complete Second Season\"、\"The Omen (Full Screen Edition)\"、\"Flightplan (Full Screen Edition)\"、\"Bellydance Fitness for Beginners: Slim Down [VHS]\"、\"Half Light\"、\"Pan's Labyrinth (New Line Two-Disc Platinum Series)\"、\"Million Dollar Baby (Two-Disc Widescreen Edition)\"、\"An American Haunting (2007)\"、\"The Grudge\"、\"The Matador (Full Screen Edition)\"\nTarget Music: \"Cross Road\"\nSimilarity Score: 0.8704\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Cooley High\"、\"Nirvana, Live Tonight Sold Out [VHS]\"、\"Adventures in Babysitting [VHS]\"、\"Boys Don't Cry [VHS]\"、\"Shallow Hal\"、\"Bringing Down The House (Widescreen Edition)\"、\"The Original Kings of Comedy/ Queens of Comedy Gift Set\"、\"Dolores Claiborne [VHS]\"、\"Indecent Proposal [VHS]\"、\"Home Alone [VHS]\"、\"Life or Something Like It\"、\"Yes - Yessongs\"、\"Home Alone 2 - Lost in New York [VHS]\"、\"Boomerang [VHS]\"、\"Spider-Man (Widescreen Special Edition)\"、\"Anaconda\"、\"The Breakfast Club\"、\"Scary Movie 2\"、\"Uptown Saturday Night\"、\"Sabrina [VHS]\"\nTarget Music: \"For You\"\nSimilarity Score: 0.6397\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Robbie Williams - Live at the Albert\"、\"Robbie Williams - Angels\"、\"John Waters Collection #1: Hairspray/ Pecker (Special Edition)\"、\"Eban and Charley\"、\"The Best of Wham!\"、\"Pretty in Pink [VHS]\"、\"Saturday Night Live - The Best of Molly Shannon\"、\"Some Kind of Wonderful [VHS]\"、\"Absolutely Fabulous: Complete DVD Collection\"、\"Longtime Companion [VHS]\"、\"Legally Blonde\"、\"Absolutely Fabulous: Complete Series 4\"、\"The Real World - The Complete First Season - New York\"、\"Party Monster - The Shockumentary\"\nTarget Music: \"Robbie Williams - Angels\"\nSimilarity Score: 0.5038\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Celsius 41.11: The Temperature at Which the Brain... Begins to Die\"、\"Star Wars Trilogy (VHS Boxed Set)\"、\"M*A*S*H - Season Three (Collector's Edition)\"、\"Rock 'n' Roll Greats: Mark Farner - In Concert\"、\"The Matrix\"、\"Team America - World Police (Special Collector's Widescreen Edition)\"、\"The Gates of Jerusalem : A History of the Holy City\"、\"History of Soccer: The Beautiful Game\"、\"Andrea Bocelli - Tuscan Skies (Cieli di Toscana)\"、\"M*A*S*H - Season Two (Collector's Edition)\"、\"The Passion of the Christ\"、\"Star Wars - Episode I, The Phantom Menace [VHS]\"、\"Sarah Brightman in Concert\"、\"Paul McCartney: Back in the U.S. - Live 2002 Concert Film\"、\"Woodstock - 3 Days of Peace &amp; Music (The Director's Cut)\"、\"Queensryche - Live Evolution\"、\"The Obama Deception: The Mask Comes Off\"、\"Hendrix: Band of Gypsies\"、\"Star Trek IV - The Voyage Home [VHS]\"、\"Spider-Man (Widescreen Special Edition)\"\nTarget Music: \"Survival\"\nSimilarity Score: 0.7304\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Pink Floyd's the Wall [VHS]\"、\"AC/DC - Let There Be Rock [VHS]\"、\"Grateful Dead - The Closing of Winterland\"、\"Jethro Tull - Living With The Past\"、\"Dream Theater - Live at Budokan\"、\"Aerosmith: Big Ones You Can Look at [VHS]\"、\"The Beatles: A Hard Day's Night [VHS]\"、\"Dream Theater - Score: 20th Anniversary World Tour Live with the Octavarium Orchestra\"、\"Rory Gallagher: Live at Montreux\"、\"Tommy\"、\"Super Size Me (Widescreen Edition)\"\nTarget Music: \"Tribute\"\nSimilarity Score: 0.8875\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Doors Collection (Collector's Edition)\"、\"Woodstock - 3 Days of Peace &amp; Music (The Director's Cut)\"、\"Pink Floyd's the Wall [VHS]\"、\"First Love: A HIstoric Gathering of Jesus Music Pioneers\"、\"Don't Look Back: 1965 UK Tour [VHS]\"、\"Metropolis (Moroder version) [VHS]\"、\"The Beatles: A Hard Day's Night [VHS]\"、\"U2 - Best of 1990-2000\"、\"The Complete Monterey Pop Festival (The Criterion Collection)\"、\"Bob Marley and the Wailers: Live! At the Rainbow [VHS]\"、\"Bob Dylan - No Direction Home\"、\"Festival Express\"、\"Live Aid  (4 Disc Set)\"、\"The Who - The Kids Are Alright [VHS]\"、\"Jimi Hendrix - Live at Woodstock\"\nTarget Music: \"Burnt Weeny Sandwich\"\nSimilarity Score: 0.8286\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Unforgivable Blackness - The Rise and Fall of Jack Johnson\"、\"Olympia Part 1 - Festival of the People [VHS]\"、\"Crouching Tiger, Hidden Dragon [VHS]\"、\"Whole Wide World [VHS]\"、\"The Lion in Winter [VHS]\"、\"Before Sunset\"、\"Wall-E (Mandarin Chinese Edition)\"、\"When We Were Kings [VHS]\"、\"Mississippi Masala [VHS]\"、\"Dance With Me\"、\"Superman the Movie [VHS]\"、\"Shogun - The Complete Epic [VHS]\"\nTarget Music: \"A Donny Hathaway Collection\"\nSimilarity Score: 0.7606\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Cramps - Live at Napa State Mental Hospital\"、\"Godzilla-King of the Monsters [VHS]\"、\"The Blasters Live - Going Home\"、\"Dodgeball - A True Underdog Story (Full Screen Edition)\"、\"Last Man on Earth [VHS]\"、\"Steve Earle - Live from Austin, TX\"、\"Dead Alive\"、\"Kentucky Fried Movie [VHS]\"、\"Rock 'n' Roll High School [VHS]\"、\"The Clash - Westway to the World\"、\"Sex Pistols - Never Mind the Bollocks\"、\"Morrisey Presents The Return of The New York Dolls - Live from Royal Albert Hall 2004\"、\"Joan Jett and the Blackhearts - Live!\"\nTarget Music: \"61/49\"\nSimilarity Score: 0.6195\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Pierrot Le Fou [VHS]\"、\"Rosetta [VHS]\"、\"Batman Begins (Single-Disc Widescreen Edition)\"、\"RoboBox\"、\"The Machinist\"、\"War of the Worlds\"、\"Batman Returns (1992)\"、\"Down to the Bone\"、\"Terminator 2: Judgment Day\"、\"Black Rain [VHS]\"、\"La Notte\"、\"Dumb and Dumber\"、\"Bram Stoker's Dracula (Widescreen Edition) [VHS]\"、\"Koyaanisqatsi [VHS]\"、\"Cars (Single-Disc Widescreen Edition)\"、\"L'Eclisse (The Criterion Collection)\"、\"Wagner - Lohengrin (remastered)\"\nTarget Music: \"Mahler: Symphony No. 2\"\nSimilarity Score: 0.3892\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Doors Collection (Collector's Edition)\"、\"Woodstock - 3 Days of Peace &amp; Music (The Director's Cut)\"、\"Pink Floyd's the Wall [VHS]\"、\"First Love: A HIstoric Gathering of Jesus Music Pioneers\"、\"Don't Look Back: 1965 UK Tour [VHS]\"、\"Metropolis (Moroder version) [VHS]\"、\"The Beatles: A Hard Day's Night [VHS]\"、\"U2 - Best of 1990-2000\"、\"The Complete Monterey Pop Festival (The Criterion Collection)\"、\"Bob Marley and the Wailers: Live! At the Rainbow [VHS]\"、\"Bob Dylan - No Direction Home\"、\"Festival Express\"、\"Live Aid  (4 Disc Set)\"、\"The Who - The Kids Are Alright [VHS]\"、\"Jimi Hendrix - Live at Woodstock\"\nTarget Music: \"Phaedra\"\nSimilarity Score: 0.7959\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Battlestar Galactica: The Complete Epic Series (Special Packaging)\"、\"The Black Hole [VHS]\"、\"Star Wars - Episode I, The Phantom Menace [VHS]\"、\"The Lord of the Rings: The Fellowship of the Ring (Two-Disc Widescreen Theatrical Edition)\"、\"2001: A Space Odyssey [VHS]\"、\"Superman the Movie [VHS]\"、\"Cinema Paradiso [VHS]\"、\"Star Trek - Nemesis (Widescreen Edition)\"、\"Crouching Tiger, Hidden Dragon [VHS]\"、\"The Terminator [VHS]\"、\"Unbreakable (Two-Disc Vista Series)\"、\"The Towering Inferno [VHS]\"、\"Independence Day [VHS]\"、\"Star Trek - The Motion Picture [VHS]\"、\"Lifeforce [VHS]\"、\"Swarm [VHS]\"、\"Tora Tora Tora (Widescreen Series) [VHS]\"、\"Spider-Man (Widescreen Special Edition)\"、\"Face/Off [VHS]\"、\"Star Trek - Voyager, Episodes 1 &amp; 2: Caretaker (Pilot) [VHS]\"\nTarget Music: \"Braveheart: Original Motion Picture Soundtrack\"\nSimilarity Score: 0.7311\n",
+    "output": "3.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Steely Dan - Two Against Nature - DTS 5.1\"、\"Bubba Ho-Tep (Slip) [VHS]\"、\"Taxi Driver (Special Edition) [VHS]\"、\"Polar Express\"、\"Die Hard [VHS]\"、\"The Prisoner - Set 2: Checkmate/ The Chimes of Big Ben/ A, B and C/ The General (Bonus)\"、\"The Prisoner - Set 1: Arrival/ Free For All/ Dance of the Dead\"、\"The Man Who Would Be King [VHS]\"、\"Sunset Boulevard [VHS]\"、\"The Prisoner - Set 3:  The Schizoid Man/Many Happy Returns/It's Your Funeral\"、\"The Terminator [VHS]\"、\"Monty Python and the Holy Grail\"、\"The Godfather Collection [VHS]\"\nTarget Music: \"Steely Dan - Two Against Nature - DTS 5.1\"\nSimilarity Score: 0.8511\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"A Clockwork Orange\"、\"Road to Perdition (Widescreen Edition)\"、\"The Deer Hunter\"、\"Birdy [VHS]\"、\"Eternal Sunshine Of The Spotless Mind\"、\"2001: A Space Odyssey [VHS]\"、\"Amadeus [VHS]\"、\"Wall Street [VHS]\"、\"Amelie\"、\"All the President's Men [VHS]\"、\"Big Chill [VHS]\"、\"Taxi Driver (Special Edition) [VHS]\"、\"Awakenings [VHS]\"、\"The Sopranos - The Complete First Five Seasons\"、\"Last Emperor [VHS]\"、\"Donnie Brasco\"、\"Mean Streets [VHS]\"、\"Heat [VHS]\"、\"Casino\"、\"Brokeback Mountain\"\nTarget Music: \"Beethoven: Five Piano Concertos\"\nSimilarity Score: 0.5488\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Bringing Down The House (Widescreen Edition)\"、\"Blood Work (Widescreen Edition)\"、\"Only the Lonely [VHS]\"、\"The Out-of-Towners [VHS]\"、\"My Darling Clementine [VHS]\"、\"7 Men From Now (Special Collector's Edition)\"、\"Charley Varrick [VHS]\"、\"It's a Mad Mad Mad Mad World [VHS]\"、\"Dennis the Menace [VHS]\"、\"Back to Bataan\"、\"Heaven Knows Mr Allison [VHS]\"、\"The Quick and the Dead\"、\"Mouse Hunt\"、\"The Cecil B. DeMille Collection (Cleopatra/ The Crusades/ Four Frightened People/ Sign of the Cross/ Union Pacific)\"、\"Cool Runnings [VHS]\"、\"No Country for Old Men\"、\"The James Dean Story\"、\"Stars in My Crown [VHS]\"、\"Doc Hollywood\"、\"Streets of Laredo [VHS]\"\nTarget Music: \"The Lost Sessions\"\nSimilarity Score: 0.5016\n",
+    "output": "3.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Stargate Atlantis - Season 1\"、\"Guess Who's Coming to Dinner\"、\"Roswell Crash: Startling New Evidence\"、\"Pirates of the Caribbean: Dead Man's Chest (Two-Disc Collector's Edition)\"、\"Lost - The Complete First Season\"、\"The Lake House (Widescreen Edition)\"、\"The Illusionist (Full Screen Edition)\"、\"Zeus and Roxanne\"、\"GoodFellas\"、\"Firefly: The Complete Series\"、\"Happy Days - The Complete First Season\"、\"Evita [VHS]\"、\"Mission Impossible [VHS]\"、\"Baby Doll [VHS]\"、\"City Slickers 2 - The Legend of Curly's Gold\"、\"Sea of Love\"\nTarget Music: \"Come Fly With Me\"\nSimilarity Score: 0.5894\n",
+    "output": "3.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Pink Floyd: Live at Pompeii (Director's Cut)[Region 2]\"、\"Rush - Replay [3 DVD/CD Box Set]\"、\"Journey - Live in Houston 1981, The Escape Tour\"、\"Rush - R30\"、\"Pink Floyd's the Wall [VHS]\"、\"Rush Chronicles - The DVD Collection\"、\"The Pink Panther Classic Cartoon Collection\"、\"Queen - On Fire at the Bowl\"、\"Roger Waters - In the Flesh (Live)\"\nTarget Music: \"Physical Graffiti\"\nSimilarity Score: 0.9342\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"White Oleander [VHS]\"、\"About Schmidt\"、\"Malena\"、\"Kissing Jessica Stein\"、\"Ghost World\"、\"Christina Aguilera - My Reflection\"、\"Secretary [VHS]\"、\"Someone Like You\"、\"Bridget Jones's Diary\"\nTarget Music: \"Christina Aguilera - My Reflection\"\nSimilarity Score: 0.8281\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Woody Allen Collection (Hannah and Her Sisters / The Purple Rose of Cairo / Broadway Danny Rose / Zelig / A Midsummer Night's Sex Comedy / Radio Days)\"、\"The Return of Sherlock Holmes Collection\"、\"Saboteur [VHS]\"、\"The Memoirs of Sherlock Holmes Collection\"、\"The Adventures of Sherlock Holmes (Boxed Set Collection)\"、\"To Have &amp; Have Not [VHS]\"、\"The Return of Sherlock Holmes - The Hound of the Baskervilles [VHS]\"、\"The Casebook of Sherlock Holmes Collection\"、\"Shadow of a Doubt [VHS]\"、\"The Woody Allen Collection, Set 1 (Annie Hall/Manhattan/Sleeper/Bananas/Interiors/Stardust Memories/Love and Death/Everything You Always Wanted to Know About Sex But Were Afraid to Ask)\"\nTarget Music: \"Themes\"\nSimilarity Score: 0.7285\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Blow [VHS]\"、\"The Fabulous Baker Boys\"、\"Score\"、\"The Departed (Single-Disc Widescreen Edition)\"、\"The Boondock Saints  [IMPORT]\"、\"Bronx Tale [VHS]\"、\"Gangs of New York (Two-Disc Collector's Edition)\"、\"The Good, the Bad and the Ugly [VHS]\"、\"Requiem for a Heavyweight [VHS]\"、\"Heat [VHS]\"、\"The First World War - The Complete Series\"\nTarget Music: \"Barbra Streisand - A Collection: Greatest Hits...and More\"\nSimilarity Score: 0.5545\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"American History X [VHS]\"、\"Music of Mass Destruction- Live in Chicago (DVD with bonus CD)\"、\"Casino\"、\"Tales From the Crypt [VHS]\"、\"The Godfather Collection [VHS]\"、\"Do the Right Thing\"、\"Raging Bull\"、\"Evil Dead II [VHS]\"、\"Family Guy, Vol. 2: Season 3\"、\"Oz: Season 1\"、\"Friday [VHS]\"、\"Daredevil (Two-Disc Widescreen Edition)\"、\"Hellraiser: Hellseeker\"、\"WWF: Wrestlemania X-Seven [VHS]\"、\"Oz: Season 2\"、\"Family Guy, Volume One\"、\"Cradle 2 the Grave (Widescreen Edition)\"\nTarget Music: \"Fallen\"\nSimilarity Score: 0.7651\n",
+    "output": "1.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"16 Blocks (Widescreen Edition)\"、\"The Da Vinci Code (Widescreen Two-Disc Special Edition)\"、\"Shaft\"、\"King Kong (Widescreen Edition)\"、\"Hustle: Complete Season One\"、\"The Island\"、\"March of the Penguins\"、\"Silent Hill (Fullscreen Edition)\"、\"House, M.D.: Season 1\"\nTarget Music: \"At the Close of a Century\"\nSimilarity Score: 0.8647\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Alice Cooper: Live at Montreux, 2005\"、\"Peter Gabriel - Growing Up Live\"、\"Jesus Camp\"、\"The U.S. vs. John Lennon\"、\"Yes - Yessongs\"、\"Brother John\"、\"The Radiators - Earth vs. the Radiators - The First 25\"、\"The Derek Trucks Band - Songlines Live!\"、\"King Crimson: Eyes Wide Open\"、\"Betty Blue [VHS]\"\nTarget Music: \"Daily Bread\"\nSimilarity Score: 0.5481\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Animal House [VHS]\"、\"The Shining [VHS]\"、\"William Shakespeare's The Merchant of Venice\"、\"Blade Runner (The Director's Cut)\"、\"Minority Report (Widescreen Two-Disc Special Edition)\"、\"Aerosmith: Big Ones You Can Look at [VHS]\"、\"Seinfeld: Season 5\"、\"12 Monkeys (Widescreen Edition) [VHS]\"、\"Romeo &amp; Juliet\"、\"Amistad (Widescreen Edition) [VHS]\"、\"A.I. Artificial Intelligence [VHS]\"、\"Gladiator [VHS]\"、\"Bob Dylan - No Direction Home\"、\"The Count of Monte Cristo [Region 2]\"、\"2001: A Space Odyssey [VHS]\"、\"The Pianist\"、\"Steely Dan - Two Against Nature - DTS 5.1\"、\"Neil Young - Heart of Gold\"、\"Macbeth [VHS]\"、\"Seven (Widescreen)\"\nTarget Music: \"My Favorite Headache\"\nSimilarity Score: 0.8393\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Red Green - Stuffed and Mounted 1\"、\"Alice's Restaurant\"、\"Popeye (75th Anniversary Collector's Edition)\"、\"Family Guy, Volume Three\"、\"Silver Streak [VHS]\"、\"Dinosaurs - The Complete First and Second Seasons\"、\"White Lightning [VHS]\"、\"Wacky Races - The Complete Series\"、\"Titus - Season 3\"、\"Vanishing Point [VHS]\"、\"Titus - Seasons 1 &amp; 2\"、\"That '70s Show: Season 1\"、\"Red Green - Duct Tape Forever\"、\"F Troop: Season 1\"、\"Grounded for Life: Season 1\"、\"M*A*S*H [VHS]\"、\"Dirty Mary Crazy Larry (Supercharger Edition)\"、\"Wrongfully Accused [VHS]\"\nTarget Music: \"That's How They Do It In Dixie - The Essential Collection\"\nSimilarity Score: 0.5503\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Doctor Who: The Web Planet (Story 13)\"、\"Doctor Who - Robots of Death [VHS]\"、\"Yes - Songs from Tsongas - 35th Anniversary Concert\"、\"Doctor Who - Lost in Time Collection of Rare Episodes - The William Hartnell Years and the Patrick Troughton Years\"、\"Doctor Who - The Talons of Weng-Chiang [VHS]\"、\"Doctor Who - Horror of Fang Rock [VHS]\"、\"Doctor Who - The Time Monster [VHS]\"、\"Doctor Who - Colony in Space [VHS]\"、\"Doctor Who - Day of the Daleks [VHS]\"、\"Cat Stevens: Majikat Special Edition\"、\"The Marx Brothers Silver Screen Collection (The Cocoanuts / Animal Crackers / Monkey Business / Horse Feathers / Duck Soup)\"、\"House of Yes - Live From The House of Blues [VHS]\"、\"Doctor Who - The Mark of the Rani [VHS]\"、\"Yes - Symphonic Live\"、\"Dr. Who - The Mind of Evil [VHS]\"、\"King Crimson: Neal and Jack and Me\"、\"Doctor Who - The Two Doctors [VHS]\"、\"Doctor Who - Planet of Evil [VHS]\"、\"Electric Light Orchestra (ELO) - Zoom Tour Live [VHS]\"、\"Home Movies - Season One\"\nTarget Music: \"Truckin Up to Buffalo July 4 1989\"\nSimilarity Score: 0.7261\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Stephen King's It [VHS]\"、\"Alien Quadrilogy (Alien / Aliens / Alien 3 / Alien Resurrection)\"、\"American Splendor\"、\"The Goonies (Clamshell) [VHS]\"、\"The Godfather Collection [VHS]\"、\"Robocop [VHS]\"、\"Unforgiven (Snap Case)\"、\"Tron\"、\"The Hobbit\"、\"Kingdom of Heaven (2-Disc Full-Screen Edition)\"、\"The Departed (Single-Disc Widescreen Edition)\"、\"South Park: The Complete Ninth Season\"、\"Stephen King's The Stand (Boxed Set) [VHS]\"、\"Predator [VHS]\"、\"Deadwood: Season 2\"、\"Band of Brothers [VHS]\"\nTarget Music: \"Saurian Meditation\"\nSimilarity Score: 0.4323\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Taming of the Shrew [VHS]\"、\"Christy - The Complete Series\"、\"All Creatures Great and Small, Series 2: Volumes 1-6 [VHS]\"、\"Nicholas and Alexandra\"、\"Ostrov (The Island), NTSC version with English subtitles\"、\"All Creatures Great &amp; Small - The Complete Series 1 Collection [VHS]\"、\"All Creatures Great &amp; Small - The Specials\"、\"All Creatures Great &amp; Small - The Complete Series 3 Collection\"、\"War and Peace\"、\"The Darling Buds of May Collection\"、\"You've Got Mail [VHS]\"\nTarget Music: \"Rickie Lee Jones - Live at the Wiltern Theatre\"\nSimilarity Score: 0.7472\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Charles Mingus: Triumph of the Underdog\"、\"Path to War\"、\"Jazz on a Summer's Day [VHS]\"、\"Tommy Igoe Groove Essentials\"、\"Let's Get Lost [VHS]\"、\"Big Night\"、\"Diana Krall - Live in Paris\"、\"Erroll Garner - In Performance\"、\"Jazz Icons: Dizzy Gillespie Live in '58 and '70\"、\"Jazz Icons: Thelonious Monk Live in '66\"、\"Sarah Vaughan: The Divine One [VHS]\"、\"Lianna\"、\"Anita O'Day - Live at Ronnie Scott's\"、\"Jazz Icons: Art Blakey &amp; the Jazz Messengers Live in '58\"、\"Norman Granz Jazz In Montreux Presents Oscar Peterson Trio '77\"、\"The Last of the Blue Devils - The Kansas City Jazz Story\"\nTarget Music: \"Complete After Midnight Session\"\nSimilarity Score: 0.6343\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Brazil (The Criterion Collection 3-Disc Boxed Set)\"、\"Office Space [VHS]\"、\"Saving Private Ryan [VHS]\"、\"Mulholland Dr.\"、\"24 Hour Party People\"、\"City of God\"、\"Texas Chainsaw Massacre [VHS]\"、\"Blind Eye Sees All, Live 1985\"、\"Manufacturing Consent - Noam Chomsky and the Media [VHS]\"、\"Dazed and Confused\"、\"L.A. Confidential (Snap Case)\"、\"JFK - Special Edition Director's Cut\"、\"It's a Wonderful Life (Original Uncut Version) [VHS]\"、\"Life of Leonardo Da Vinci (3pc) [VHS]\"、\"Lost Highway [VHS]\"、\"Apocalypse Now [VHS]\"、\"9/11 - The Filmmakers' Commemorative Edition\"、\"Time Regained\"、\"Eraserhead\"、\"Fahrenheit 9/11\"\nTarget Music: \"Taking Tiger Mountain By Strategy\"\nSimilarity Score: 0.8328\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Team America - World Police (Special Collector's Widescreen Edition)\"、\"Grand Canyon [VHS]\"、\"Malibu's Most Wanted (Full Screen Edition)\"、\"Sting - All This Time\"、\"Electric Light Orchestra (ELO) - Zoom Tour Live [VHS]\"、\"The U.S. vs. John Lennon\"、\"The Four Complete Historic Ed Sullivan Shows Featuring the Beatles\"、\"Monty Python's Life of Brian (The Criterion Collection)\"、\"Genesis - The Video Show\"、\"The Police - Everyone Stares: The Police Inside Out\"、\"Scrooge [VHS]\"、\"Joe Jackson - Live in Tokyo\"\nTarget Music: \"Live From Toronto\"\nSimilarity Score: 0.5619\n",
+    "output": "3.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"How to Lose a Guy in 10 Days\"、\"Blue Crush (Widescreen Collector's Edition)\"、\"Miss Congeniality\"、\"A Walk to Remember [VHS]\"、\"Christina Aguilera - My Reflection\"、\"Holes (Widescreen Edition)\"、\"Charlie's Angels: Full Throttle (Unrated Widescreen Edition)\"、\"Buffy the Vampire Slayer - The Complete Fourth Season\"、\"Disney's The Princess Diaries\"、\"Save the Last Dance\"\nTarget Music: \"Fallen\"\nSimilarity Score: 0.7984\n",
+    "output": "2.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Four Complete Historic Ed Sullivan Shows Featuring the Beatles\"、\"Jane Monheit - Live at the Rainbow Room\"、\"Petticoat Junction - Ultimate Collection\"、\"Robbie Williams - Live at the Albert\"、\"Beverly Hillbillies: The Ultimate Collection,  Vol. 1\"、\"Barbra Streisand - The Television Specials\"、\"Voices of Concord Jazz - Live at Montreux\"、\"Elvis / Viva Las Vegas [VHS]\"、\"Little Voice\"、\"The Color Honeymooners - Collection 1\"、\"Walt Disney Treasures - Mickey Mouse Club\"、\"Hullabaloo, Vols. 5-8\"、\"Maverick (Television Favorites)\"\nTarget Music: \"Basie &amp; Beyond\"\nSimilarity Score: 0.6236\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Lost in Translation\"、\"Ghost in the Shell [VHS]\"、\"Haunted Junction\"、\"Perfect Blue (rated edition) [VHS]\"、\"Armitage - Dual Matrix\"、\"F**k\"、\"My Neighbor Totoro [VHS]\"、\"Jean Michel Jarre - Oxygene Moscow\"、\"Robotech - First Contact (Vol. 1)\"、\"Vampire Princess Miyu - Ultimate Set (Complete Series + CD)\"、\"Kite [VHS]\"、\"Sailor Moon: The Movies - The Dream Set (Uncut Special Edition)\"、\"Phantom Quest Corp - Perfect Collection\"、\"Shinesman [VHS]\"、\"Bubblegum Crisis 1: Episodes 1-3\"、\"2LDK\"、\"Armitage III - Poly-Matrix [VHS]\"、\"The Best Years of Our Lives\"、\"Bubblegum Crisis Megaseries (Complete Series)\"、\"Project A-Ko [VHS]\"\nTarget Music: \"Princess Mononoke: Music From The Miramax Motion Picture\"\nSimilarity Score: 0.5790\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Unfaithful (Widescreen Edition)\"、\"Northern Exposure - The Complete First Season\"、\"Wild at Heart [VHS]\"、\"Twin Peaks -  Premiere Episode [VHS]\"、\"Fantastic Four (Widescreen Edition)\"、\"Tapeheads\"、\"Superman the Movie [VHS]\"、\"Mean Girls (Widescreen Edition)\"、\"Coldplay - Live 2003 (DVD &amp; CD)\"、\"Bad Santa\"、\"Aerosmith: Big Ones You Can Look at [VHS]\"、\"Requiem for a Dream - Director's Cut\"、\"Tenacious D - The Complete Master Works\"、\"Shameless: Season 1\"\nTarget Music: \"Welcome Home: Live at the Arlington Theater 1992\"\nSimilarity Score: 0.5288\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Five Senses\"、\"Brokeback Mountain\"、\"The Busby Berkeley Collection (Footlight Parade / Gold Diggers of 1933 / Dames / Gold Diggers of 1935 / 42nd Street)\"、\"Gremlins [VHS]\"、\"Adam &amp; Steve (2005)\"、\"Making Love [VHS]\"、\"The Fountain (Widescreen Edition)\"、\"Gods and Monsters [VHS]\"、\"Fearless Vampire Killers [VHS]\"、\"Mommie Dearest [VHS]\"、\"Titanic's Final Moments: Missing Pieces\"、\"Keeping Up Appearances: The Full Bouquet\"、\"Miracle on 34th Street  [VHS]\"、\"Romeo &amp; Juliet\"、\"Billy Elliot [VHS]\"、\"A Christmas Carol\"、\"Withnail &amp; I [VHS]\"、\"Polar Express\"\nTarget Music: \"Lullabies to Violaine: Singles &amp; Extended Plays\"\nSimilarity Score: 0.8729\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Final Destination (New Line Platinum Series)\"、\"Idle Hands [VHS]\"、\"The Iron Giant\"、\"Ranma 1/2 - The Movie 2, Nihao My Concubine\"、\"Much Ado About Nothing\"、\"Holy Smoke! [VHS]\"、\"Macbeth [VHS]\"、\"Being John Malkovich\"、\"Titus\"、\"Princess Mononoke\"、\"Election [VHS]\"、\"10 Things I Hate About You [VHS]\"\nTarget Music: \"Dog Problems\"\nSimilarity Score: 0.6329\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Teenage Mutant Ninja Turtles: The Original Series - Volume Two\"、\"The Brothers Quay Collection: Ten Astonishing Short Films 1984-1993 [VHS]\"、\"Twin Peaks: Episodes 1-29 [VHS]\"、\"Tideland (Two-Disc Collector's Edition)\"、\"Di Meola/Clarke/Ponty - Live at Montreux 1994\"、\"Sepultura - Live in Sao Paulo\"、\"Jiri Barta: Labyrinth of Darkness\"、\"Secret Recipe\"、\"Teenage Mutant Ninja Turtles - Original Series (Volume 5)\"、\"Faust [VHS]\"、\"Peter Pan (45th Anniversary Limited Edition) [VHS]\"、\"Symphony For The Devil - Type O Negative (2006)\"、\"The White Seal/A Cricket in Times Square\"、\"Wind in the Willows - The Complete First Series\"、\"The Fountain (Widescreen Edition)\"、\"Office Space (Widescreen Edition)\"、\"MirrorMask\"、\"Adventures of Mark Twain [VHS]\"、\"Institute Benjamenta\"、\"The Straight Story [VHS]\"\nTarget Music: \"Dark Side of the Moon\"\nSimilarity Score: 0.9381\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Undercover Brother (Widescreen Collector's Edition)\"、\"Mission Impossible 3\"、\"Boomerang [VHS]\"、\"Angel Eyes\"、\"Friday [VHS]\"、\"Two Can Play that Game\"、\"Money Talks [VHS]\"、\"Die Hard With a Vengeance (Widescreen Edition) [VHS]\"、\"House Party\"、\"House Party 3\"、\"Unbreakable (Two-Disc Vista Series)\"、\"The Fan\"\nTarget Music: \"Da Unbreakables\"\nSimilarity Score: 0.6262\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Festival Express\"、\"The Best of Abbott &amp; Costello, Vol. 2 (Hit the Ice / In Society / Here Come the Co-Eds / The Naughty Nineties / Little Giant / The Time of Their Lives / Buck Privates Come Home / The Wistful Widow of Wagon Gap)\"、\"Frontier House [VHS]\"、\"Jeff Healey Band - Live at Montreux 1999\"、\"Dropkick Murphys: On the Road With the Dropkick Murphys\"、\"Larry the Cable Guy: Health Inspector\"、\"Camille [VHS]\"、\"Robin &amp; Marian [VHS]\"、\"Looney Tunes - Stranger Than Fiction\"、\"Looney Tunes - Reality Check\"、\"The Last Days of Frank &amp; Jesse James\"、\"Star Trek IV - The Voyage Home [VHS]\"、\"Travis Tritt: Live &amp; Kickin'\"、\"A Walk to Remember [VHS]\"、\"Sleepy Hollow\"、\"Pirates of the Caribbean: At World's End (Two-Disc Limited Edition)\"、\"Benjamin Franklin\"、\"Robbie Williams - Live at the Albert\"、\"Harry Potter and the Order of the Phoenix (Two-Disc Special Edition)\"、\"Murder on the Orient Express [VHS]\"\nTarget Music: \"Robbie Williams - Live at the Albert\"\nSimilarity Score: 0.7336\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Great Santini\"、\"The Count of Monte Cristo [Region 2]\"、\"Saving Private Ryan [VHS]\"、\"Two-Lane Blacktop (Limited Edition Tin Case Packaging)\"、\"Six Feet Under - The Complete Series (Seasons 1-5)\"、\"WWII 60th Anniversary Collection (The Guns of Navarone/From Here to Eternity/The Bridge on the River Kwai) (Includes Collectible Scrapbook)\"、\"The Real McCoy\"、\"Action Classics 50 Movie Pack DVD Collection\"、\"Minority Report (Widescreen Two-Disc Special Edition)\"、\"Casablanca [VHS]\"、\"St Valentine's Day Massacre [VHS]\"、\"Road to Perdition (Widescreen Edition)\"、\"Kiss Me Kate [VHS]\"、\"This Sporting Life\"、\"The Mission [VHS]\"、\"Fanfan la Tulipe [Region 2]\"、\"Western Classics\"\nTarget Music: \"Greatest Hits, 1985-1995\"\nSimilarity Score: 0.7489\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Dr. Strangelove: Or, How I Learned to Stop Worrying and Love the Bomb\"、\"Four Brothers\"、\"Stripes\"、\"4 Little Girls [VHS]\"、\"Spaceballs\"、\"Der Untergang\"、\"The Family Stone (Full Screen Edition)\"、\"Marci X\"、\"The Lost Boys [VHS]\"、\"Ferris Bueller's Day Off [VHS]\"、\"Lethal Weapon: The Complete Series\"、\"Frankenhooker [VHS]\"、\"The Goonies (Clamshell) [VHS]\"、\"Batman Begins (Single-Disc Widescreen Edition)\"、\"Tremors (Collector's Edition)\"\nTarget Music: \"Straight Outta Cashville\"\nSimilarity Score: 0.7525\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Butterfly Effect (Infinifilm Edition)\"、\"The Last Samurai (Full Screen Edition)\"、\"Walking Tall\"、\"Along Came a Spider [VHS]\"、\"Bad Boys [VHS]\"、\"GoodFellas\"、\"Bad Boys II (Two-Disc Special Edition)\"、\"Menace II Society\"、\"The Wire: Season 2\"、\"The Wire: Season 1\"、\"Harold &amp; Kumar Go to White Castle (Rated Edition)\"\nTarget Music: \"Lost\"\nSimilarity Score: 0.3429\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The 13th Warrior\"、\"Ladyhawke [VHS]\"、\"Fast Food\"、\"The Rescuers Down Under [VHS]\"、\"The Jungle Book (Fully Restored 30th Anniversary Limited Edition) [VHS]\"、\"The Patriot (Special Edition)\"、\"Braveheart [VHS]\"、\"Romeo + Juliet [VHS]\"、\"My Fair Lady (digitally THX mastered) [VHS]\"、\"Henry V\"、\"Robin Hood (A Walt Disney Masterpiece) [VHS]\"、\"Kate &amp; Leopold\"、\"The Red Violin\"、\"Titus\"、\"Ideal Husband [VHS]\"、\"Dumbo [VHS]\"、\"Romeo &amp; Juliet\"、\"Oliver &amp; Company [VHS]\"、\"The Miracle Match\"、\"Richard III\"\nTarget Music: \"Disney's Beauty And The Beast: Original Broadway Cast Recording\"\nSimilarity Score: 0.9169\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Scarlet Diva\"、\"Anita O'Day - Live at Ronnie Scott's\"、\"Jazz Icons: Ella Fitzgerald Live in '57 and '63\"、\"Sweet and Lowdown (Fullscreen)\"、\"Jazz Icons: Dizzy Gillespie Live in '58 and '70\"、\"Scoop\"、\"Charlie Chaplin: Limelight [VHS]\"、\"Cabin Boy [VHS]\"、\"Divorce Italian Style (The Criterion Collection)\"、\"Paper Moon [VHS]\"、\"Thieves' Highway (The Criterion Collection)\"、\"L'Eclisse (The Criterion Collection)\"、\"Night and the City (The Criterion Collection)\"、\"A Tale of Springtime\"、\"Dimples\"、\"Ghost World\"、\"The Story of Qiu Ju [VHS]\"、\"When Father Was Away on Business [VHS]\"、\"Scarlet Street\"、\"The Messenger: The Story of Joan of Arc [VHS]\"\nTarget Music: \"Thelonious Monk with John Coltrane\"\nSimilarity Score: 0.7813\n",
+    "output": "3.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Playtime (The Criterion Collection)\"、\"Marnie [VHS]\"、\"Mulholland Dr.\"、\"Ed Wood [VHS]\"、\"The Gospel According to St. Matthew [VHS]\"、\"High Noon [VHS]\"、\"The Cooler\"、\"Diary of a Country Priest (The Criterion Collection)\"、\"Blues Masters - The Essential History of the Blues\"、\"Big Heat [VHS]\"、\"The Straight Story [VHS]\"、\"Edward II [VHS]\"、\"Bringing Up Baby [VHS]\"、\"Hero\"、\"Revengers Tragedy\"、\"Beau Travail\"\nTarget Music: \"Bach: Brandenburg Concerti 1-6\"\nSimilarity Score: 0.5139\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Where the Heart Is [VHS]\"、\"Pennies from Heaven [VHS]\"、\"Wonder Boys [VHS]\"、\"Pride &amp; Prejudice\"、\"Gypsy [VHS]\"、\"Lone Star [VHS]\"、\"High Society [VHS]\"、\"Young at Heart [VHS]\"、\"The X-Files - The Complete Ninth Season\"、\"Mostly Martha\"\nTarget Music: \"Evening of My Best Day\"\nSimilarity Score: 0.6791\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Complete Black Adder [VHS]\"、\"Elevation 2001: U2 Live from Boston\"、\"Total Recall\"、\"The Searchers [VHS]\"、\"Superman the Movie [VHS]\"、\"Mystery Science Theater 3000 - Pod People [VHS]\"、\"The Wild Bunch - The Original Director's Cut\"、\"WWF: Wrestlemania X-Seven [VHS]\"、\"Army of Darkness\"、\"Blade [VHS]\"、\"U2 - The Best of - 1980-1990 [VHS]\"、\"Evil Dead II [VHS]\"、\"Mad Max [VHS]\"、\"The Boondock Saints  [IMPORT]\"、\"Star Wars - Episode I, The Phantom Menace [VHS]\"、\"The Road Warrior\"、\"The Straight Story [VHS]\"、\"Monty Python's Flying Circus, Season 1 [VHS]\"、\"WF WrestleMania 2000 [VHS]\"、\"The Simpsons: The Complete First Season\"\nTarget Music: \"The Million Dollar Hotel: Music From The Motion Picture (2000 Film)\"\nSimilarity Score: 0.6790\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Independence Day [VHS]\"、\"Terminator 2: Judgment Day\"、\"Total Recall\"、\"Earth Wind &amp; Fire - Live in Japan\"、\"Shining Stars - The Official Story of Earth Wind &amp; Fire\"、\"Earth Wind &amp; Fire: In Concert\"、\"Paul Mooney's Analyzing White America\"、\"The Best of The Chris Rock Show - Volume 2\"、\"Star Trek II - The Wrath of Khan [VHS]\"、\"X-Men [VHS]\"\nTarget Music: \"Ultimate Luther Vandross\"\nSimilarity Score: 0.4242\n",
+    "output": "1.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Grifters\"、\"Burnt Money\"、\"Into the Blue\"、\"Amores Perros\"、\"Ocean's Eleven (Full Screen Edition)\"、\"Lantana\"、\"Shattered Glass\"、\"Risky Business\"、\"All That Jazz [VHS]\"、\"Saturday Night Fever [VHS]\"、\"My So-Called Life: Complete Series\"、\"Babel\"、\"L'Auberge Espagnole (The Spanish Apartment)\"、\"The Bourne Identity (Widescreen Collector's Edition)\"、\"Psycho Beach Party\"、\"The Departed (Single-Disc Widescreen Edition)\"、\"Broadcast News [VHS]\"\nTarget Music: \"Very Best of Howard Hewett\"\nSimilarity Score: 0.5564\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Grifters\"、\"Burnt Money\"、\"Into the Blue\"、\"Amores Perros\"、\"Ocean's Eleven (Full Screen Edition)\"、\"Lantana\"、\"Shattered Glass\"、\"Risky Business\"、\"All That Jazz [VHS]\"、\"Saturday Night Fever [VHS]\"、\"My So-Called Life: Complete Series\"、\"Babel\"、\"L'Auberge Espagnole (The Spanish Apartment)\"、\"The Bourne Identity (Widescreen Collector's Edition)\"、\"Psycho Beach Party\"、\"The Departed (Single-Disc Widescreen Edition)\"、\"Broadcast News [VHS]\"\nTarget Music: \"12 Inch Collection\"\nSimilarity Score: 0.7126\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Brighton Beach Memoirs [VHS]\"、\"The Graduate\"、\"The Witches of Eastwick\"、\"Carrie\"、\"Rocky Gift Set [VHS]\"、\"Con Air [VHS]\"、\"The Jackal  [VHS]\"、\"The Fabulous Baker Boys\"、\"2001: A Space Odyssey [VHS]\"、\"Demolition Man [VHS]\"、\"The Siege\"、\"Masters of the Universe [VHS]\"、\"Sleepers\"、\"Carlito's Way (Widescreen Edition) [VHS]\"、\"2001 - A Space Travesty\"、\"Legends of the Fall [VHS]\"、\"Grand Canyon [VHS]\"、\"The Replacement Killers [VHS]\"、\"My Blue Heaven\"、\"Disclosure\"\nTarget Music: \"Space Ghost's Surf &amp; Turf: With 22 Tiki-Torched Tunes\"\nSimilarity Score: 0.3522\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Phantasm II [VHS]\"、\"Let Sleeping Corpses Lie\"、\"South Park - The Complete First Season\"、\"Zombie [VHS]\"、\"Dead Alive\"、\"The Jackhammer Massacre\"、\"Wilderness\"、\"South Park - The Complete Second Season\"、\"South Park: Season 3\"\nTarget Music: \"Hangover Music, Vol. 6\"\nSimilarity Score: 0.7207\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"I.Q. [VHS]\"、\"Rock Hudson &amp; Doris Day Romance Collection (Pillow Talk / Lover Come Back / Send Me No Flowers)\"、\"How to Steal a Million [VHS]\"、\"Charade (The Criterion Collection)\"、\"March of the Penguins\"、\"Sex and the City - The Complete Series: Seasons 1-6\"、\"Maid in Manhattan [VHS]\"、\"Cinderella Man (Widescreen Edition)\"、\"Bjork: Vespertine - Live at Royal Opera House\"、\"Gillian Welch - The Revelator Collection\"、\"View from the Top\"、\"Sinatra - Classic Duets [VHS]\"、\"Norman Granz Jazz In Montreux Presents Oscar Peterson Trio '77\"\nTarget Music: \"As Is Now\"\nSimilarity Score: 0.6282\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Hellboy [VHS]\"、\"300 (Two-Disc Special Edition)\"、\"Iron Man (Ultimate 2 Disc Edition)\"、\"Robin Williams - Live on Broadway\"、\"Daredevil (Two-Disc Widescreen Edition)\"、\"Hot Shots! Part Deux\"、\"28 Days Later (Widescreen Special Edition)\"、\"The 40-Year-Old Virgin (Unrated Widescreen Edition)\"、\"Transformers (Two-Disc Special Edition)\"、\"The Dark Knight [Theatrical Release]\"、\"Shaun of the Dead\"、\"Hot Shots [VHS]\"、\"Batman Returns (1992)\"、\"V for Vendetta Special Edition\"、\"Batman Begins (Single-Disc Widescreen Edition)\"、\"Pirates of the Caribbean: The Curse of the Black Pearl (Two-Disc Collector's Edition)\"、\"Beerfest (Unrated Widescreen Edition)\"、\"Big Trouble in Little China [VHS]\"、\"Shrek 2 [VHS]\"、\"The Punisher\"\nTarget Music: \"Mouse &amp; The Mask\"\nSimilarity Score: 0.8164\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Freaks and Geeks: The Complete Series\"、\"Spider-Man 2 (Widescreen Special Edition)\"、\"Aqua Teen Hunger Force - Volume One\"、\"Sin City\"、\"Rush - Rush in Rio\"、\"Invader ZIM - Doom Doom Doom (Vol. 1)\"、\"Guided by Voices - The Electrifying Conclusion\"、\"Oz: Season 4\"、\"Oz: Season 3\"、\"Family Guy, Volume One\"、\"South Park: Season 5\"\nTarget Music: \"Out of Exile\"\nSimilarity Score: 0.8289\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Adventures of the Gummi Bears, Vol. 1 - Seasons 1-3\"、\"Spice World\"、\"The Rescuers (Disney's Masterpiece) [VHS]\"、\"Charlotte's Web\"、\"Raise Your Voice\"、\"Death of a Cheerleader: TV Movie (True Stories Collection)\"、\"The Chipmunk Adventure [VHS]\"、\"Anne of Green Gables Trilogy Box Set\"、\"Little Women (Collector's Series)\"、\"The Color of Friendship [VHS]\"、\"The Secret of NIMH [VHS]\"、\"The Land Before Time\"、\"The Last Unicorn [VHS]\"、\"The Barbie Diaries\"、\"Matilda\"、\"Thumbelina [VHS]\"、\"The Magic School Bus - Space Adventures\"、\"Ode to Billy Joe [VHS]\"、\"Don't Tell Mom The Babysitter's Dead\"、\"Jetsons: The Movie [VHS]\"\nTarget Music: \"American Patriot\"\nSimilarity Score: 0.7943\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Butterfly Effect (Infinifilm Edition)\"、\"The Last Samurai (Full Screen Edition)\"、\"Walking Tall\"、\"Along Came a Spider [VHS]\"、\"Bad Boys [VHS]\"、\"GoodFellas\"、\"Bad Boys II (Two-Disc Special Edition)\"、\"Menace II Society\"、\"The Wire: Season 2\"、\"The Wire: Season 1\"、\"Harold &amp; Kumar Go to White Castle (Rated Edition)\"\nTarget Music: \"Legends\"\nSimilarity Score: 0.4328\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Hot Rock [VHS]\"、\"Loverboy\"、\"Addicted to Love\"、\"From Jesus to Christ - The First Christians [VHS]\"、\"Detective School Dropouts\"、\"Groundhog Day\"、\"Father of the Bride Part II [VHS]\"、\"Mystery Men [VHS]\"、\"Purgatory [VHS]\"、\"Down with Love (Widescreen Edition)\"、\"National Lampoon's Loaded Weapon 1 [VHS]\"、\"School Ties [VHS]\"、\"14 Hours\"\nTarget Music: \"Roger Williams - Greatest Hits\"\nSimilarity Score: 0.7786\n",
+    "output": "3.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Janet Jackson - From Janet to Damita Jo: The Videos\"、\"Legally Blonde 2 - Red, White &amp; Blonde (Special Edition)\"、\"Mulan [VHS]\"、\"Sex and the City - The Complete First Season [VHS]\"、\"The Others (Two-Disc Collector's Edition)\"、\"The Animal (Special Edition)\"、\"Phil of the Future - Gadgets &amp; Gizmos\"、\"Pocahontas (Walt Disney's Masterpiece) [VHS]\"、\"Glitter\"、\"A League of Their Own [VHS]\"、\"Save the Last Dance\"、\"All of Me [VHS]\"、\"Stepmom [VHS]\"\nTarget Music: \"Design of a Decade 1986/1996\"\nSimilarity Score: 0.9061\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Garden State\"、\"Mean Girls (Widescreen Edition)\"、\"Lolita\"、\"The Pianist\"、\"To Kill a Mockingbird (Widescreen) [VHS]\"、\"The Butterfly Effect (Infinifilm Edition)\"、\"Lost in Translation\"、\"Blood Diamond (Two-Disc Special Edition)\"、\"Hotel Rwanda (2004)\"、\"The Passion of the Christ\"、\"Spice World\"\nTarget Music: \"Surrender\"\nSimilarity Score: 0.7034\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Family Guy, Volume One\"、\"Dick Tracy [VHS]\"、\"The Family Guy Vol. 1-3 (Seasons 1-4)\"、\"Clue [VHS]\"、\"CSI: MIAMI - COMPLETE THIRD SEASON\"、\"Three Amigos!\"、\"Austin Powers: International Man of Mystery/The Spy Who Shagged Me/Goldmember\"、\"Johnny Dangerously [VHS]\"、\"Revenge of the Nerds: The Atomic Wedgie Collection\"、\"White Christmas [VHS]\"、\"The Man with No Name Trilogy (A Fistful of Dollars, For A Few Dollars More, The Good, the Bad, and the Ugly)\"、\"Voltron - Defender of the Universe - Collection One: Blue Lion\"、\"The Batman Legacy (Four Film Giftset) [VHS]\"、\"Picture of Dorian Gray [VHS]\"、\"Finding Nemo (Two-Disc Collector's Edition)\"、\"Fear &amp; Loathing in Las Vegas [VHS]\"、\"Don Knotts Reluctant Hero Pack (The Ghost And Mr. Chicken / The Reluctant Astronaut / The Shakiest  Gun In The West /  The Love God?)\"、\"Cinderella (Walt Disney's Masterpiece) [VHS]\"、\"Bell, Book and Candle\"、\"Clint Eastwood - Westerner (The Outlaw Josey Wales / Pale Rider / Unforgiven / 3 DVD Set\"\nTarget Music: \"Monkey Business\"\nSimilarity Score: 0.7254\n",
+    "output": "3.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Kathy Smith - Secrets of a Great Body Total Workout, Vol. 1 - Upper Body [VHS]\"、\"Salsa Dance DVD Video SalsaCrazy Series, Volume 1 - Salsa Dancing Guide for Beginners - Step by Step Dance Club Lesson\"、\"Monty Python and the Holy Grail\"、\"Aerosmith: Big Ones You Can Look at [VHS]\"、\"Jane Fonda's Favorite Fat Burners [VHS]\"、\"Jane Fonda's Lower Body Solution [VHS]\"、\"Mary Poppins [VHS]\"、\"Bedknobs &amp; Broomsticks [VHS]\"、\"Monty Python's Life of Brian (The Criterion Collection)\"、\"Erin Brockovich [VHS]\"、\"Jane Fonda's Step Aerobic and Abdominal Workout [VHS]\"、\"The Green Mile [VHS]\"\nTarget Music: \"Time Love &amp; Tenderness\"\nSimilarity Score: 0.6497\n",
+    "output": "2.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Snake Pit [VHS]\"、\"The Hot Chick\"、\"Salem's Lot\"、\"The Butterfly Effect (Infinifilm Edition)\"、\"A Very Brady Sequel [VHS]\"、\"A Walk to Remember [VHS]\"、\"Mean Girls (Widescreen Edition)\"、\"Dawn of the Dead [VHS]\"、\"Spice World\"、\"Britney Spears - Greatest Hits - My Prerogative\"、\"The Golden Girls: Season 1\"、\"White Chicks (PG-13 Rated Edition)\"、\"Uptown Girls\"、\"Hocus Pocus [VHS]\"、\"Finding Nemo (Two-Disc Collector's Edition)\"、\"The Witches\"、\"Scary Movie 3 (Widescreen Edition)\"、\"The Ring (Widescreen Edition)\"、\"Sixteen Candles [VHS]\"、\"Secondhand Lions (2003)\"\nTarget Music: \"Pure Disco 2\"\nSimilarity Score: 0.6917\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Aerosmith: Big Ones You Can Look at [VHS]\"、\"The Doors\"、\"Casino\"、\"Dazed and Confused\"、\"AC/DC - Live at Donington\"、\"The Night Evelyn Came Out of the Grave\"、\"The Lord of the Rings: The Fellowship of the Ring (Two-Disc Widescreen Theatrical Edition)\"、\"Almost Famous\"、\"GoodFellas\"、\"One Flew Over the Cuckoo's Nest\"、\"The Godfather [VHS]\"、\"Halloween\"、\"Aerosmith: You Gotta Move (DVD +CD)\"、\"Halloween 2 [VHS]\"\nTarget Music: \"Gasoline Alley\"\nSimilarity Score: 0.7303\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Silent Night\"、\"Blood Diamond (Two-Disc Special Edition)\"、\"Der Untergang\"、\"Awakenings [VHS]\"、\"Broken Trail\"、\"Shackleton - The Greatest Survival Story of All Time (3-Disc Collector's Edition)\"、\"Mary Shelley's Frankenstein\"、\"Casualties of War [VHS]\"、\"To End All Wars\"、\"Amistad (Widescreen Edition) [VHS]\"、\"Green Dragon\"、\"Lean on Me (Snap Case Packaging)\"、\"In the Name of the Father\"、\"Stalingrad [VHS]\"、\"Chicago/Earth Wind &amp; Fire - Live at the Greek Theatre\"、\"Hunt for Red October [VHS]\"、\"Steve Vai - Live at the Astoria London\"、\"Sometimes in April\"\nTarget Music: \"Symphony Sessions\"\nSimilarity Score: -0.0795\n",
+    "output": "1.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Valley of the Dolls [VHS]\"、\"Mad Hot Ballroom\"、\"Little Women (Collector's Series)\"、\"Roxie Hart [VHS]\"、\"Play Misty for Me [VHS]\"、\"The Heiress [VHS]\"、\"Anna Karenina (1948)\"、\"La Vie en Rose (Extended Version)\"、\"Portrait of Jennie [VHS]\"、\"The Beguiled\"、\"Applause\"、\"Hairspray [VHS]\"、\"Girl 6 [VHS]\"\nTarget Music: \"Collection\"\nSimilarity Score: 0.5820\n",
+    "output": "3.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Man From Planet X [VHS]\"、\"The Discreet Charm Of The Bourgeoisie (The Criterion Collection)\"、\"2001: A Space Odyssey [VHS]\"、\"They Live\"、\"The Errand Boy [VHS]\"、\"Wes Craven's New Nightmare\"、\"The Game [VHS]\"、\"The Matrix\"、\"Confidential Report (AKA Mr. Arkadin) [VHS]\"、\"Rear Window [VHS]\"、\"Nightmare on Elm Street [VHS]\"、\"Winter Light [VHS]\"、\"Killers From Space\"、\"Zardoz [VHS]\"、\"Glen Or Glenda [VHS]\"、\"The Patsy [VHS]\"、\"The Nutty Professor [VHS]\"、\"Crazies [VHS]\"、\"Last Year at Marienbad [VHS]\"\nTarget Music: \"Greatest Hits - Easy Listening for Intergalactic Travel\"\nSimilarity Score: 0.3696\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Rossini - Il Barbiere Di Siviglia (The Barber of Seville)\"、\"Delibes - Sylvia / Aurelie Dupont, Manuel Legris, Nicolas Le Riche, Marie-Agnes Gillot, Jose Martinez, Paris Opera Ballet\"、\"Prokofiev - Cinderella / Struchkova, Lediakh, Chadarain, Kolpakchi, Maximova, Bolshoi Ballet\"、\"Le Corsaire / American Ballet Theatre [VHS]\"、\"Adam - Giselle / Malakhov, Vasileva, Kremlin State Theatre Ballet Academy\"、\"Smetana - The Bartered Bride\"、\"Humperdinck - Hansel und Gretel\"、\"Puccini - Gianni Schicchi / Corbelli, Palmer, Giordano, Matthews, McLaughlin, Jurowski, Glyndebourne Opera\"、\"Delibes - Lakme [VHS]\"\nTarget Music: \"Mozart - Le Nozze di Figaro\"\nSimilarity Score: 0.5689\n",
+    "output": "1.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Mozart - Don Giovanni / Furtwangler\"、\"Saint-Saens - Samson et Dalila / Domingo, Borodina, Leiferkus, Fink, Levine, Metropolitan Opera\"、\"Herbert Von Karajan - His Legacy for Home Video - Mozart - Don Giovanni\"、\"Verdi - La Traviata / Richard Eyre, Solti, Gheorghiu, Lopardo, Nucci, ROH Covent Garden\"、\"The Terminal (Widescreen Edition)\"、\"Bizet - Carmen / Maazel, Migenes, Domingo [VHS]\"、\"Verdi - Aida - The Metropolitan Opera/James Levine [VHS]\"、\"The Last Samurai (Full Screen Edition)\"、\"Maria Callas - La Callas... Toujours\"、\"Verdi - Il Trovatore / Domingo, Kabaivanksa, Cossotto, Cappuccilli, van Dam, Zednik, von Karajan, Vienna Opera\"、\"Maria Full of Grace\"、\"Amadeus [VHS]\"\nTarget Music: \"Verdi - Otello / Karajan, Vickers, Freni, Berlin Philharmonic\"\nSimilarity Score: 0.0764\n",
+    "output": "3.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Contact (Snap Case)\"、\"About Schmidt\"、\"Classic Albums: Steely Dan - Aja\"、\"The Jerk\"、\"When Harry Met Sally... [VHS]\"、\"Mr Holland's Opus [VHS]\"、\"The Simpsons - The Complete Fifth Season collector's ed [DVD] [1993]\"、\"Groundhog Day\"、\"Say Anything [VHS]\"、\"Taxi - The Complete Third Season\"、\"High Fidelity [VHS]\"、\"Peter Gabriel - Growing Up Live\"、\"The Young Ones: Every Stoopid Episode\"、\"Rush - Rush in Rio\"、\"Heathers [VHS]\"、\"Blade Runner (The Director's Cut)\"、\"Best in Show\"、\"About a Boy (Widescreen Edition)\"、\"Almost Famous\"\nTarget Music: \"Gaucho\"\nSimilarity Score: 0.8818\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Some Kind of Wonderful [VHS]\"、\"Herbie the Love Bug Collection (The Love Bug/Herbie Goes to Monte Carlo/Herbie Goes Bananas/Herbie Rides Again)\"、\"Battle of the Planets - The Ultimate DVD Boxed Set\"、\"Monk - Season One\"、\"Gargoyles: Season 1\"、\"Firefly: The Complete Series\"、\"Maxx: Original Series [VHS]\"、\"Doctor Who - The Curse of Fatal Death [VHS]\"、\"Gargoyles - Season Two, Vol. 1\"、\"Johnny English (Widescreen Edition)\"、\"Scooby-Doo (Widescreen Edition)\"、\"Ai Yori Aoshi, Volume 1: Faithfully Yours (Episodes 1-5)\"、\"Battle of the Planets, Vol. 1\"、\"Are You Being Served? Collection 1 (Series 1-5)\"、\"Maya Lin - A Strong Clear Vision\"、\"Dr. Bell and Mr. Doyle - The Dark Beginnings of Sherlock Holmes\"、\"Michael Shayne Mysteries: Volume One\"、\"Roughnecks - The Starship Troopers Chronicles - The Complete Campaigns\"、\"Howard the Duck [VHS]\"、\"G.I. Joe - Season 2, Part 1\"\nTarget Music: \"Incredible Singing Christmas Tree\"\nSimilarity Score: 0.5198\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Covenant\"、\"3 Doors Down - Away From The Sun (SuperDisc DVD)\"、\"Anger Management (Widescreen Edition)\"、\"The Sleeping Dictionary\"、\"Ginger Snaps Back: The Beginning [VHS]\"、\"The Billy Madison/Happy Gilmore Collection (Widescreen Special Edition)\"、\"The Dukes of Hazzard: Season 1\"、\"Gargoyles: Season 1\"、\"The Time Machine\"、\"Armageddon [VHS]\"、\"Aerosmith: You Gotta Move (DVD +CD)\"、\"War of the Worlds\"、\"Camp Nowhere [VHS]\"、\"O Brother, Where Art Thou?\"、\"The Waterboy [VHS]\"、\"Cursed\"、\"D.E.B.S. (Special Edition)\"、\"Ginger Snaps\"、\"Chic - Live at Montreux 2004\"、\"8 Mile (Widescreen Edition)\"\nTarget Music: \"L.A. Guns\"\nSimilarity Score: 0.5993\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Khatchaturian - Spartacus / Irek Mukhamedov, Natalya Bessmertnova, Maria Bylova, Yuri Grigorovich, Bolshoi Ballet\"、\"An American Tail Family Double Feature\"、\"I Dream of Jeannie - The Complete First Season (Black &amp; White)\"、\"What's Up Doc [VHS]\"、\"Prokofiev: Ivan the Terrible\"、\"Wild at Heart [VHS]\"、\"Jazz Icons: Dizzy Gillespie Live in '58 and '70\"、\"Jazz Icons: Buddy Rich Live in '78\"、\"Kiss - Kissology - Volume 1 (1974-1977)\"\nTarget Music: \"Free for All\"\nSimilarity Score: 0.7698\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Return to Oz\"、\"Return to Oz [VHS]\"、\"Absolutely Fabulous: Complete DVD Collection\"、\"Tina Turner - One Last Time: Live in Concert\"、\"Paula Abdul - Cardio Dance [VHS]\"、\"Wes Craven's New Nightmare\"、\"The Eyes of Tammy Faye\"、\"Glitter\"、\"Swept Away\"、\"Stripperella - Season One - Uncensored\"、\"Jem - The Complete 1st &amp; 2nd Seasons\"、\"The Anna Nicole Show - The First Season\"、\"The Very Best of Cher - The Video Hits Collection\"、\"Madonna - Drowned World Tour [VHS]\"、\"Aeon Flux\"、\"The Wizard of Oz\"、\"Red Sonja [VHS]\"、\"The Wonderful Wizard of Oz Animation Collection\"\nTarget Music: \"All for You\"\nSimilarity Score: 0.8323\n",
+    "output": "2.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Four Complete Historic Ed Sullivan Shows Featuring the Beatles\"、\"Jane Monheit - Live at the Rainbow Room\"、\"Petticoat Junction - Ultimate Collection\"、\"Robbie Williams - Live at the Albert\"、\"Beverly Hillbillies: The Ultimate Collection,  Vol. 1\"、\"Barbra Streisand - The Television Specials\"、\"Voices of Concord Jazz - Live at Montreux\"、\"Elvis / Viva Las Vegas [VHS]\"、\"Little Voice\"、\"The Color Honeymooners - Collection 1\"、\"Walt Disney Treasures - Mickey Mouse Club\"、\"Hullabaloo, Vols. 5-8\"、\"Maverick (Television Favorites)\"\nTarget Music: \"The Regis Philbin Christmas Album\"\nSimilarity Score: 0.1651\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Sting - All This Time\"、\"Shrek (Special Edition) [VHS]\"、\"Robert Plant &amp; The Strange Sensation - Soundstage: Live\"、\"AC/DC - No Bull (Live Plaza De Toros De Las Ventas, Madrid)\"、\"Cheap Trick - Music for Hangovers\"、\"George Benson: Live at Montreux 1986\"、\"Elevation 2001: U2 Live from Boston\"、\"Eric Clapton - Live in Hyde Park\"、\"The Who - Live at the Royal Albert Hall\"、\"Queensryche - Live Evolution\"、\"Roger Waters - In the Flesh (Live)\"\nTarget Music: \"Bocanada\"\nSimilarity Score: 0.7507\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"I Died a Thousand Times [VHS]\"、\"Some Like It Hot [VHS]\"、\"Barnyard: The Original Party Animals (Widescreen Edition)\"、\"The English Patient [VHS]\"、\"Show Boat [VHS]\"、\"Picture of Dorian Gray [VHS]\"、\"Immortal Beloved [VHS]\"、\"Joyeux Noel (Widescreen)\"、\"La Vie en Rose (Extended Version)\"、\"Road to Wellville [VHS]\"、\"Burnt By the Sun [VHS]\"、\"Jaws [VHS]\"、\"Hoodwinked (Full Screen Version)\"\nTarget Music: \"Nine Symphonies\"\nSimilarity Score: -0.0201\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Doctor Who: The Web Planet (Story 13)\"、\"Doctor Who - The Horns of Nimon [VHS]\"、\"Whose Line Is It Anyway (British) - Seasons 1 &amp; 2\"、\"Doctor Who - Planet of the Daleks [VHS]\"、\"The Complete Monty Python's Flying Circus\"、\"The Wall-Live in Berlin [VHS]\"、\"Doctor Who - Planet of Giants [VHS]\"、\"Red Planet\"、\"The World's Fastest Indian\"、\"Tron\"、\"It Happened One Night [VHS]\"、\"Doctor Who: Twin Dilemma [VHS]\"、\"Metropolis (Moroder version) [VHS]\"、\"Steely Dan - Two Against Nature - DTS 5.1\"\nTarget Music: \"The Mask and Mirror\"\nSimilarity Score: 0.8647\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Big Lebowski [VHS]\"、\"Army of Darkness\"、\"Audition\"、\"Family Guy, Volume One\"、\"FLCL:  Volume 1\"、\"Monty Python and the Holy Grail\"、\"Aqua Teen Hunger Force - Volume Three\"、\"Cowboy Bebop - The Perfect Sessions (Limited Edition Complete Series Boxed Set)\"、\"This Is Spinal Tap (The Criterion Collection)\"、\"Team America - World Police (Special Collector's Widescreen Edition)\"、\"Bullitt [VHS]\"、\"Sealab 2021 - Season 2\"、\"Ron White - They Call Me Tater Salad\"\nTarget Music: \"Results May Vary\"\nSimilarity Score: 0.4736\n",
+    "output": "1.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"EuroTrip (Unrated Widescreen Edition)\"、\"Crash (Widescreen Edition)\"、\"The Wire: Season 3\"、\"The League of Extraordinary Gentlemen (Widescreen Edition)\"、\"Bullet [VHS]\"、\"Ray (Widescreen Edition)\"、\"Friday Night Lights (Widescreen Edition)\"、\"Paid in Full\"、\"The Wire - The Complete First and Second Seasons\"、\"Open Range\"、\"Boyz 'N The Hood\"、\"Barbershop 2: Back in Business (Special Edition)\"、\"Dead Man [VHS]\"、\"Ladder 49 (Widescreen Edition)\"、\"Panther\"\nTarget Music: \"World Is Yours\"\nSimilarity Score: 0.4903\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Dallas: The Complete First &amp; Second Seasons\"、\"Edward Scissorhands\"、\"Who's Afraid of Virginia Woolf?\"、\"Picnic at Hanging Rock (The Criterion Collection)\"、\"The Party [VHS]\"、\"Addams Family Values [VHS]\"、\"Eraserhead\"、\"Night of the Hunter [VHS]\"、\"Team America - World Police (Special Collector's Widescreen Edition)\"、\"Dark Crystal [VHS]\"、\"Young Frankenstein (Special Edition)\"、\"The Rose [VHS]\"、\"Janis: The Way She Was [VHS]\"、\"Moulin Rouge (Two-Disc Collector's Edition)\"、\"Fellini Satyricon [VHS]\"、\"Burnt Offerings [VHS]\"、\"The Duchess and the Dirtwater Fox [VHS]\"、\"Donna Summer: A Hot Summer Night [VHS]\"、\"South Park - Bigger, Longer &amp; Uncut [VHS]\"、\"Alien [VHS]\"\nTarget Music: \"Atomic - Very Best of\"\nSimilarity Score: 0.2680\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Doors Collection (Collector's Edition)\"、\"Woodstock - 3 Days of Peace &amp; Music (The Director's Cut)\"、\"Pink Floyd's the Wall [VHS]\"、\"First Love: A HIstoric Gathering of Jesus Music Pioneers\"、\"Don't Look Back: 1965 UK Tour [VHS]\"、\"Metropolis (Moroder version) [VHS]\"、\"The Beatles: A Hard Day's Night [VHS]\"、\"U2 - Best of 1990-2000\"、\"The Complete Monterey Pop Festival (The Criterion Collection)\"、\"Bob Marley and the Wailers: Live! At the Rainbow [VHS]\"、\"Bob Dylan - No Direction Home\"、\"Festival Express\"、\"Live Aid  (4 Disc Set)\"、\"The Who - The Kids Are Alright [VHS]\"、\"Jimi Hendrix - Live at Woodstock\"\nTarget Music: \"October\"\nSimilarity Score: 0.8646\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Strait Jacket [VHS]\"、\"Star [VHS]\"、\"Deadly Weapons (Special Edition)\"、\"Babes in Toyland [VHS]\"、\"Bye Bye Birdie\"、\"Lady Vanishes [VHS]\"、\"Only When I Laugh [VHS]\"、\"Valley of the Dolls [VHS]\"、\"Goodbye Mr. Chips (1969) [VHS]\"、\"Kitten With a Whip [VHS]\"、\"The Very Best of the Ed Sullivan Show - Unforgettable Performances [VHS]\"\nTarget Music: \"Joey Heatherton\"\nSimilarity Score: 0.4720\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Mad Max Beyond Thunderdome\"、\"Mission: Impossible - The Complete First TV Season\"、\"Blade Runner (The Director's Cut)\"、\"Mulholland Dr.\"、\"Sarah Brightman - One Night in Eden\"、\"Pretty Woman [VHS]\"、\"The Thing - Collector's Edition\"、\"Fathom\"、\"Metropolis (Moroder version) [VHS]\"、\"The Godfather Collection [VHS]\"、\"Before &amp; After [VHS]\"、\"The Good Wife\"、\"Invasion of the Body Snatchers\"、\"The Snowman [VHS]\"、\"2001: A Space Odyssey [VHS]\"、\"Invasion of the Body Snatchers\"、\"Minority Report (Widescreen Two-Disc Special Edition)\"、\"Last Man on Earth [VHS]\"、\"The New World\"、\"Mr. Magoo's Christmas Carol [VHS]\"\nTarget Music: \"Strange Days\"\nSimilarity Score: 0.9110\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Unfaithful (Widescreen Edition)\"、\"Northern Exposure - The Complete First Season\"、\"Wild at Heart [VHS]\"、\"Twin Peaks -  Premiere Episode [VHS]\"、\"Fantastic Four (Widescreen Edition)\"、\"Tapeheads\"、\"Superman the Movie [VHS]\"、\"Mean Girls (Widescreen Edition)\"、\"Coldplay - Live 2003 (DVD &amp; CD)\"、\"Bad Santa\"、\"Aerosmith: Big Ones You Can Look at [VHS]\"、\"Requiem for a Dream - Director's Cut\"、\"Tenacious D - The Complete Master Works\"、\"Shameless: Season 1\"\nTarget Music: \"Around the World in a Day\"\nSimilarity Score: 0.9152\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Kiss - Kissology - Volume 1 (1974-1977)\"、\"The Wall-Live in Berlin [VHS]\"、\"The Arsenal of Megadeth\"、\"Sepultura - Live in Sao Paulo\"、\"Neil Young - Silver &amp; Gold\"、\"The Adventures of Buckaroo Banzai [VHS]\"、\"Reincarnation (After Dark Horrorfest)\"、\"Ride with the Devil\"、\"Ape to Man (History Channel)\"、\"Scorpions World Wide Live [VHS]\"、\"Conan - The Complete Quest\"、\"Ozzy Osbourne - Live at Budokan\"、\"Smokin' Joe Kubek and Bnois King: My Heart's in Texas\"、\"The Jungle Book (Fully Restored 30th Anniversary Limited Edition) [VHS]\"、\"The History Of Iron Maiden, Part 1: The Early Days (Two-Disc Edition)\"、\"The Who - The Vegas Job\"、\"Scarecrow [VHS]\"、\"Bad Company in Concert: Merchants of Cool\"\nTarget Music: \"Randy Rhoads Years\"\nSimilarity Score: 0.4051\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Deep End\"、\"The Royal Tenenbaums (The Criterion Collection)\"、\"The Others (Two-Disc Collector's Edition)\"、\"In the Bedroom\"、\"A Beautiful Mind (Two-Disc Awards Edition)\"、\"Frailty\"、\"Legally Blonde\"、\"Junebug\"、\"Spice World\"、\"The Lord of the Rings: The Fellowship of the Ring (Two-Disc Widescreen Theatrical Edition)\"、\"The Gift\"\nTarget Music: \"Thunder &amp; Roses\"\nSimilarity Score: 0.4392\n",
+    "output": "3.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Pink Floyd: Live at Pompeii (Director's Cut)[Region 2]\"、\"Sade - Lovers Live\"、\"The Emerald Forest [VHS]\"、\"Roger Waters - In the Flesh (Live)\"、\"Moonraker THX Edition\"、\"House of Flying Daggers\"、\"Deep Purple Live in Concert 72/73\"、\"The Aviator (2004)\"、\"The Pianist\"、\"Deep Purple - In Concert With the London Symphony Orchestra\"、\"National Treasure (Widescreen Edition)\"\nTarget Music: \"Viva Santana\"\nSimilarity Score: 0.8504\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"All About Eve [VHS]\"、\"Les Miserables - The Dream Cast in Concert\"、\"Sex and the City: Season 6, Part 2\"、\"Junebug\"、\"The Turning Point [VHS]\"、\"Agnes Browne\"、\"The Nutcracker (The American Ballet Theatre) [VHS]\"、\"Thin\"、\"The Guru\"、\"Shattered Glass\"、\"Facing the Giants\"、\"Agnes of God [VHS]\"、\"Divine Dancers - Live from Prague / Prague State Opera\"、\"The Snapper [VHS]\"、\"A Patch of Blue [VHS]\"、\"You Can't Take It With You [VHS]\"、\"The Adventures of Brisco County, Jr.: The Complete Series\"、\"Obsessed\"、\"Audition\"、\"Requiem for a Dream - Director's Cut\"\nTarget Music: \"Monkey Business\"\nSimilarity Score: 0.7195\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Chasing Liberty (Full Screen Edition)\"、\"Once and Again - The Complete First Season\"、\"Queensryche - Operation Livecrime\"、\"The Black Crowes - Freak N Roll into the Fog\"、\"The Dark Knight [Theatrical Release]\"、\"Spider-Man 2 (Widescreen Special Edition)\"、\"Rock Star\"、\"Batman Begins (Single-Disc Widescreen Edition)\"、\"Audition\"、\"Contact (Snap Case)\"\nTarget Music: \"Amorica\"\nSimilarity Score: 0.8909\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"High Fidelity [VHS]\"、\"Unfaithful (Widescreen Edition)\"、\"About Schmidt\"、\"When Harry Met Sally... [VHS]\"、\"Grosse Pointe Blank\"、\"Ocean's Eleven (Full Screen Edition)\"、\"The Wings of the Dove\"、\"The Spitfire Grill [VHS]\"、\"Amelie\"、\"Horse Whisperer [VHS]\"、\"Shopgirl\"、\"Ghost World\"、\"New York City Ballet Workout\"、\"Army of Darkness\"、\"The Family Man (Widescreen Collector's Edition)\"、\"Legally Blonde\"、\"Crazy/ Beautiful\"、\"Annie Hall [VHS]\"、\"Dinner With Friends\"、\"Pleasantville [VHS]\"\nTarget Music: \"Standing in the Shadows of Motown\"\nSimilarity Score: 0.6476\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Gothika (Full-Screen Edition) (Snap Case)\"、\"Spider-Man 2 (Widescreen Special Edition)\"、\"Run Lola Run [VHS]\"、\"Mean Girls (Widescreen Edition)\"、\"Moulin Rouge (Two-Disc Collector's Edition)\"、\"The Day After Tomorrow (Widescreen Edition)\"、\"Laurel Canyon [VHS]\"、\"Saved!\"、\"Donnie Darko (Widescreen Edition)\"、\"Secret Window\"、\"Anchorman: The Legend of Ron Burgundy (Unrated Widescreen Edition)\"、\"I Heart Huckabees\"、\"Kill Bill, Vol. 2 [DVD]\"、\"Dummy\"、\"Coffee and Cigarettes\"、\"Eternal Sunshine Of The Spotless Mind\"、\"God Is Great and I'm Not\"、\"Bridget Jones - The Edge of Reason (Widescreen Edition)\"、\"The Quiet American\"、\"Sex and the City - The Complete First Five Seasons (5-pack)\"\nTarget Music: \"Dirty Dancing: Havana Nights\"\nSimilarity Score: 0.2037\n",
+    "output": "3.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Home Room\"、\"Elephant: A Film By Gus Van Sant\"、\"Beyond the Sea\"、\"Lisa [VHS]\"、\"The United States of Leland\"、\"Cheaters\"、\"Bully\"、\"Identity\"、\"The Witches\"、\"Igby Goes Down\"、\"Bride of Chucky [VHS]\"、\"May\"、\"Boy Meets World - The Complete First Season\"、\"Wonderfalls - The Complete Series\"、\"The Texas Chainsaw Massacre\"、\"Matilda\"、\"Good Son [VHS]\"、\"My Girl\"、\"Ghost World\"\nTarget Music: \"Thankful by Kelly Clarkson (2003)\"\nSimilarity Score: 0.6860\n",
+    "output": "3.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Garden State\"、\"Mean Girls (Widescreen Edition)\"、\"Lolita\"、\"The Pianist\"、\"To Kill a Mockingbird (Widescreen) [VHS]\"、\"The Butterfly Effect (Infinifilm Edition)\"、\"Lost in Translation\"、\"Blood Diamond (Two-Disc Special Edition)\"、\"Hotel Rwanda (2004)\"、\"The Passion of the Christ\"、\"Spice World\"\nTarget Music: \"Around the World in a Day\"\nSimilarity Score: 0.9102\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Sailor Moon S - The Complete Uncut TV Set\"、\"The Parent Trap (Walt Disney Pictures Presents) [VHS]\"、\"Growing Pains: Season 1\"、\"Gilmore Girls: Season 1\"、\"Sailor Moon, Season One, Complete and Uncut\"、\"Flowers in the Attic [VHS]\"、\"The Shirley Temple Collection: Volume One\"、\"Mean Girls (Widescreen Edition)\"、\"Shirley Temple: The Little Colonel [VHS]\"、\"Just Around the Corner [VHS]\"、\"Shirley Temple: America's Sweetheart Collection, Vol. 2,  Baby Take a Bow / Rebecca of Sunnybrook Farm / Bright Eyes\"、\"The Baby Sitters Club [VHS]\"、\"Buffy The Vampire Slayer - The Complete First Season\"、\"Clueless [VHS]\"\nTarget Music: \"Coverage\"\nSimilarity Score: 0.8076\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Seinfeld: Season 7\"、\"WWE: Bret &quot;Hitman&quot; Hart - The Best There Is, The Best There Was, The Best There Ever Will Be\"、\"Oz: Season 6\"、\"Rush - R30\"、\"Sanford and Son - The Second Season\"、\"Seinfeld: Season 3\"、\"Oz: Season 4\"、\"The Jetsons - The Complete First Season\"、\"Oz: Season 3\"、\"Seinfeld: Season 6\"、\"WWE: The Ultimate Ric Flair Collection\"、\"Seinfeld: Season 5\"、\"Sanford and Son - The First Season\"、\"Seinfeld - Seasons One &amp; Two\"、\"Seinfeld: Season 4\"、\"Oz: Season 5\"、\"Sanford and Son - The Third Season\"、\"Steely Dan - Two Against Nature - DTS 5.1\"\nTarget Music: \"Brown Album\"\nSimilarity Score: 0.6485\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Bill Evans Trio: The Oslo Concerts\"、\"Eric Clapton: Crossroads Guitar Festival\"、\"Ref [VHS]\"、\"Carl Perkins and Friends - Blue Suede Shoes: A Rockabilly Session\"、\"In the Line of Fire [VHS]\"、\"Diana Krall - Live in Paris\"、\"Bireli Lagrene &amp; Friends- Live Jazz A Vienne\"、\"New Morning: The Paris Concert\"、\"The Allman Brothers Band - Live at the Beacon Theatre\"\nTarget Music: \"Rockin the Fillmore\"\nSimilarity Score: 0.9477\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"House of 1000 Corpses\"、\"Vampire Hunter D [VHS]\"、\"The Wizard of Gore (Special Edition)\"、\"Cradle of Fear\"、\"Lidsville - Complete Series\"、\"Dreamchild [VHS]\"、\"Tales from the Crypt: Season 3\"、\"The Cabinet of Dr. Caligari [VHS]\"、\"Tales From the Crypt [VHS]\"、\"The Gore Gore Girls (Special Edition)\"、\"Big Money Hustlas: The Movie [VHS]\"、\"Ernest Saves Christmas [VHS]\"、\"Dr. Terror's House of Horrors [VHS]\"、\"Tales from the Crypt: Season 1\"、\"Suicide Club (Suicide Circle)\"、\"Rocky Horror Picture Show [VHS]\"\nTarget Music: \"Echos\"\nSimilarity Score: 0.6318\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Catch Me If You Can (Widescreen Two-Disc Special Edition)\"、\"A History of Violence (New Line Platinum Series) [DVD]\"、\"Almost Famous\"、\"King Kong (Widescreen Edition)\"、\"Joy Ride\"、\"America: Live\"、\"V for Vendetta Special Edition\"、\"End of the Century - The Story of the Ramones\"、\"Best in Show\"、\"The Gift\"、\"The Core [VHS]\"、\"The Lord of the Rings: The Return of the King (Two-Disc Widescreen Theatrical Edition)\"、\"Threshold - The Complete Series\"\nTarget Music: \"Logic Will Break Your Heart\"\nSimilarity Score: 0.8241\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Star Trek - The Motion Picture [VHS]\"、\"Good Burger [VHS]\"、\"Kentucky Fried Movie [VHS]\"、\"Beyond Re-Animator\"、\"Un Coeur En Hiver [VHS]\"、\"Godzilla: King of Monsters [VHS]\"、\"Pink Flamingos (25th Anniversary Edition) [VHS]\"、\"Destroy All Monsters [VHS]\"、\"My Neighbor Totoro [VHS]\"、\"Boyz 'N The Hood\"、\"Once Were Warriors [VHS]\"、\"Bedazzled [VHS]\"、\"V for Vendetta Special Edition\"、\"Wicker Man [VHS]\"、\"Russ Meyer's Lorna\"、\"Tetsuo: The Ironman\"、\"Liquid Sky [VHS]\"、\"The Hitchhiker's Guide to the Galaxy (Full Screen Edition)\"、\"Gamera - The Guardian of The Universe [VHS]\"、\"City Lights [VHS]\"\nTarget Music: \"Born Under a Bad Sign [Vinyl]\"\nSimilarity Score: 0.8359\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Red Dragon (Widescreen Collector's Edition)\"、\"The Silence of the Lambs [VHS]\"、\"The American Folk Blues Festival 1962-1966, Vol. 2\"、\"The American Folk Blues Festival 1962-1966, Vol. 1\"、\"The Allman Brothers Band - Live at the Beacon Theatre\"、\"The Eagles - Farewell 1 Tour - Live From Melbourne\"、\"John Fogerty: The Long Road Home in Concert\"、\"The American Folk Blues Festival 1962-1969, Vol. 3\"、\"Alice Cooper - Brutally Live - DTS\"、\"Eric Clapton - Live in Hyde Park\"\nTarget Music: \"Blood on the Tracks\"\nSimilarity Score: 0.9166\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The American Experience - Tom Hanks presents Return with Honor [VHS]\"、\"Titus\"、\"Madonna - Drowned World Tour [VHS]\"、\"Empire of the Sun [VHS]\"、\"Moulin Rouge (Two-Disc Collector's Edition)\"、\"Tigerland\"、\"Topsy Turvy [VHS]\"、\"The End of the Affair [VHS]\"、\"Lock, Stock, and Two Smoking Barrels [VHS]\"、\"The Talented Mr. Ripley\"、\"Pearl Harbor (Two-Videotape Set) (60th Anniversay Commemorative Edition) [VHS]\"、\"Gladiator [VHS]\"、\"The Thin Red Line [VHS]\"\nTarget Music: \"Oops!... I Did It Again\"\nSimilarity Score: 0.5718\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Butterfly Effect (Infinifilm Edition)\"、\"The Last Samurai (Full Screen Edition)\"、\"Walking Tall\"、\"Along Came a Spider [VHS]\"、\"Bad Boys [VHS]\"、\"GoodFellas\"、\"Bad Boys II (Two-Disc Special Edition)\"、\"Menace II Society\"、\"The Wire: Season 2\"、\"The Wire: Season 1\"、\"Harold &amp; Kumar Go to White Castle (Rated Edition)\"\nTarget Music: \"Still Reportin\"\nSimilarity Score: 0.7954\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"One Hour Photo (Widescreen Edition)\"、\"The Road Warrior\"、\"The Karate Kid Part II [VHS]\"、\"Slayer - Reign In Blood: Still Reigning\"、\"Addams Family, Vol. 3 [VHS]\"、\"Event Horizon [VHS]\"、\"Greg the Bunny - The Complete Series\"、\"Gladiator [VHS]\"、\"The Last Action Hero [VHS]\"、\"The Hills Have Eyes\"\nTarget Music: \"Scorching Beauty\"\nSimilarity Score: 0.6909\n",
+    "output": "1.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Billabong Odyssey\"、\"Lost in Translation\"、\"Curb Your Enthusiasm: Season 1\"、\"Batman (1989)\"、\"Pieces of April\"、\"Love Actually (Widescreen Edition)\"、\"Pirates of the Caribbean: The Curse of the Black Pearl (Two-Disc Collector's Edition)\"、\"Moulin Rouge (Two-Disc Collector's Edition)\"、\"28 Days Later (Widescreen Special Edition)\"、\"Chasing Amy [VHS]\"、\"The Matrix Revolutions (Two-Disc Full Screen Edition) [DVD]\"、\"The Good Thief\"、\"21 Grams\"、\"Before Sunset\"、\"The Rundown (Widescreen Edition)\"、\"Pearl Jam - Live at the Garden\"、\"Big Fish\"、\"My So-Called Life: Complete Series\"、\"The Commitments [VHS]\"、\"Thirteen\"\nTarget Music: \"Above\"\nSimilarity Score: 0.8530\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Battle of Algiers [VHS]\"、\"Rosenstrasse\"、\"The Sopranos: Season 5\"、\"Swing Time [VHS]\"、\"The Last of the Blue Devils - The Kansas City Jazz Story\"、\"The American Folk Blues Festival 1962-1966, Vol. 1\"、\"Gosford Park - Collector's Edition\"、\"Triumph of the Will [VHS]\"、\"Frida\"\nTarget Music: \"Tribute to the Music of Bob Wills &amp; the Texas Playboys\"\nSimilarity Score: 0.6762\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Cult - Live Cult (Music Without Fear)\"、\"New York Dolls - All Dolled Up\"、\"John Mayall and the Bluesbreakers - 70th Birthday Concert\"、\"Concert for George\"、\"VH1 Storytellers - Billy Idol\"、\"AC/DC: Stiff Upper Lip Live\"、\"Memento [VHS]\"、\"The Complete Monty Python's Flying Circus\"、\"Judas Priest - Live in London\"、\"School of Rock (Full Screen Edition)\"、\"Gettysburg [VHS]\"、\"Joan Jett and the Blackhearts - Live!\"、\"Sammy Hagar &amp; the Waboritas - Cabo Wabo Birthday Bash Tour\"、\"Gary Moore: Live at Monsters of Rock\"、\"The Lord of the Rings: The Return of the King (Two-Disc Widescreen Theatrical Edition)\"、\"Monty Python and the Holy Grail\"、\"Foghat Live - Two Centuries of Boogie\"、\"Iggy and the Stooges - Live in Detroit\"、\"Mot&ouml;rhead - Stage Fright DVD\"、\"Classic Albums - The Who: Who's Next\"\nTarget Music: \"Best of the Blues\"\nSimilarity Score: 0.9241\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Frankie Valli and the Four Seasons: Very Best of\"、\"Pippin [VHS]\"、\"Jerry Lee Lewis - I Am What I Am\"、\"Jacques Brel Is Alive and Well and Living in Paris\"、\"The Green Mile [VHS]\"、\"Sweeney Todd in Concert\"、\"Sweeney Todd - The Demon Barber of Fleet Street (Broadway) (Snap Case)\"、\"The Best of Riverdance\"、\"The Everly Brothers Reunion Concert\"、\"1776 [VHS]\"、\"Blue Steel [VHS]\"、\"Andre Rieu - 100 Years of Strauss\"、\"Not Without My Daughter [VHS]\"、\"Stalking Laura\"、\"The Andy Williams Christmas Show (Live from Branson)\"、\"The Exorcist\"、\"Fright Night\"、\"Ambulance Girl\"、\"Hustler [VHS]\"、\"Rocky Horror Picture Show [VHS]\"\nTarget Music: \"Applause: Original 1970 Broadway Cast\"\nSimilarity Score: 0.3841\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Horror of Dracula [VHS]\"、\"Clash of the Titans [VHS]\"、\"Dark Crystal [VHS]\"、\"Rio Grande\"、\"Rio Bravo [VHS]\"、\"A Christmas Story [VHS]\"、\"Rodgers and Hammerstein's Oklahoma! (London Stage Revival)\"、\"El Dorado [VHS]\"、\"The Lord of the Rings: The Motion Picture Trilogy (Widescreen Edition)\"、\"Tom Thumb\"、\"Godzilla Raids Again [VHS]\"、\"Gojira / Godzilla, King of the Monsters\"、\"Harry Potter and the Order of the Phoenix (Two-Disc Special Edition)\"、\"Mummy [VHS]\"、\"The Beast From 20,000 Fathoms / Them! (Double Feature)\"、\"The Mysterians [VHS]\"、\"Hound of Baskervilles [VHS]\"、\"The Horse's Mouth [VHS]\"、\"We Are Marshall (Widescreen Edition)\"、\"The Sting (Full Screen Edition)\"\nTarget Music: \"Light of the Spirit\"\nSimilarity Score: 0.2820\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Seven Brides for Seven Brothers [VHS]\"、\"Futurama: Volume Three\"、\"Frankenstein Meets the Space Monster\"、\"Thunderbirds (Widescreen Edition)\"、\"Gamera Limited Edition Box Set\"、\"Mole People [VHS]\"、\"Puppet Masters [VHS]\"、\"Returner\"、\"Deep Blue Sea\"、\"Gilligan's Island: Season 3\"、\"Godzilla Vs Biollante [VHS]\"、\"Son of Godzilla [VHS]\"、\"Les Miserables\"、\"Pollyanna [VHS]\"、\"Deep Rising [VHS]\"、\"Survivor 4 Marquesas - The Complete Season\"、\"Rudolph the Red Nosed Reindeer\"、\"Walk the Line (Two-Disc Special Edition)\"、\"The King of Queens: Season 2\"、\"Underworld: Evolution [Blu-ray]\"\nTarget Music: \"The Human Equation [Regular Edition]\"\nSimilarity Score: 0.6782\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"They Live\"、\"The Final Cut\"、\"Freddy vs. Jason (New Line Platinum Series)\"、\"Fly 2 [VHS]\"、\"Wes Craven's New Nightmare\"、\"Frailty\"、\"The Life Aquatic with Steve Zissou (The Criterion Collection)\"、\"Cube Zero\"、\"Batman Begins (Single-Disc Widescreen Edition)\"、\"Ladder 49 (Widescreen Edition)\"、\"Cold Creek Manor\"、\"House of Wax (Widescreen Edition)\"、\"Misery [VHS]\"、\"Million Dollar Baby (Two-Disc Widescreen Edition)\"、\"Salo (The Criterion Collection)\"、\"Star Wars: Episode III - Revenge of the Sith (Widescreen Edition)\"、\"Finding Neverland (Widescreen Edition)\"、\"Fever Pitch (Full Screen Edition)\"、\"Deep Impact [VHS]\"、\"Life as a House (New Line Platinum Series)\"\nTarget Music: \"Perfect Self\"\nSimilarity Score: 0.5876\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Kylie Minogue - Body Language Live\"、\"Shakira: Live &amp; Off The Record\"、\"Pink Floyd: Live at Pompeii (Director's Cut)[Region 2]\"、\"Britney Spears - Greatest Hits - My Prerogative\"、\"Slipknot - Disasterpieces\"、\"That One Night - Live in Buenos Aires\"、\"Kylie Minogue - Fever 2002 (Live in Manchester)\"、\"The Arsenal of Megadeth\"、\"Spice World\"\nTarget Music: \"Screaming for Vengeance\"\nSimilarity Score: 0.8366\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Forrest Gump [VHS]\"、\"Lords of Dogtown (Original Theatrical Version)\"、\"Alpha Dog\"、\"Shrek 2 [VHS]\"、\"Million Dollar Baby (Two-Disc Widescreen Edition)\"、\"Bruce Almighty (Widescreen Edition)\"、\"Mr. &amp; Mrs. Smith (Full Screen Edition)\"、\"Blood Diamond (Two-Disc Special Edition)\"、\"Wes Craven's New Nightmare\"、\"American Wedding - Unrated (Widescreen Collector's Edition)\"、\"Thirteen\"、\"Freaky Friday\"\nTarget Music: \"Vitalogy\"\nSimilarity Score: 0.8570\n",
+    "output": "3.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Office Space [VHS]\"、\"Iron Maiden-Rock in Rio\"、\"Saved!\"、\"The Lost Boys [VHS]\"、\"Vanilla Sky [VHS]\"、\"Black Sabbath - The Last Supper\"、\"Superman Returns (Widescreen Edition)\"、\"Dream Theater - Metropolis 2000: Scenes From New York [VHS]\"、\"Ultimate Fighting Championship (UFC), Vol. 43 - Meltdown\"、\"Rush - Rush in Rio\"、\"The Family Man (Widescreen Collector's Edition)\"、\"Face/Off [VHS]\"、\"Smallville - The Complete First Four Seasons\"、\"Godzilla [VHS]\"、\"Pride Fighting Championships: Total Elimination 2004\"、\"Almost Famous\"、\"High Fidelity [VHS]\"、\"Tape\"、\"Tommy Boy [VHS]\"、\"Sin City\"\nTarget Music: \"Clap Your Hands Say Yeah\"\nSimilarity Score: 0.9230\n",
+    "output": "2.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Moonstruck\"、\"The Family Stone (Full Screen Edition)\"、\"Falling in Love [VHS]\"、\"The Verdict [VHS]\"、\"Concert for George\"、\"The Majestic [VHS]\"、\"A History of Violence (New Line Platinum Series) [DVD]\"、\"A Christmas Carol [VHS]\"、\"Jersey Girl\"、\"Derailed (Unrated Widescreen)\"、\"Firefly: The Complete Series\"、\"White Christmas [VHS]\"、\"Serenity (Widescreen Edition)\"、\"Red Eye (Widescreen Edition)\"、\"Wonder Boys [VHS]\"、\"The Family Man (Widescreen Collector's Edition)\"、\"De-Lovely: The Cole Porter Story (Special Edition)\"、\"Young at Heart [VHS]\"、\"Casablanca [VHS]\"\nTarget Music: \"Damn the Torpedoes\"\nSimilarity Score: 0.9146\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Kiss - Rock the Nation Live\"、\"Kiss - Kissology - Volume 1 (1974-1977)\"、\"Konfidential [VHS]\"、\"Batman Forever\"、\"Batman (1989)\"、\"Iron Maiden-Rock in Rio\"、\"Metallica - Cliff 'Em All [VHS]\"、\"Kiss - Symphony: The DVD\"、\"Batman Returns (1992)\"、\"Kiss - eXposed [VHS]\"\nTarget Music: \"Destroyer\"\nSimilarity Score: 0.8531\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Rocky 3 [VHS]\"、\"A Fistful of Dollars [VHS]\"、\"National Treasure (Widescreen Edition)\"、\"Planet of the Apes Collection (Widescreen Edition) [VHS]\"、\"Rocky 2 [VHS]\"、\"The Rookie (Widescreen Edition)\"、\"Silverado (Collector's Edition) [VHS]\"、\"Electric Light Orchestra (ELO) - Zoom Tour Live [VHS]\"、\"Sudden Impact [VHS]\"、\"Jumanji [VHS]\"、\"The Fugitive\"、\"The Dirty Dozen\"、\"Rocky (1976)\"、\"Miracle (Widescreen Edition)\"、\"Remember the Titans [VHS]\"、\"Rocky 4 [VHS]\"、\"Field of Dreams (Widescreen Collector's Edition)\"、\"Daylight Again\"、\"Behind Enemy Lines\"、\"The Mystery Science Theater 3000 Collection, Vol. 1 (Bloodlust / Catalina Caper / The Creeping Terror / Skydivers)\"\nTarget Music: \"The Very Best of Badfinger\"\nSimilarity Score: 0.6986\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"There's Something About Mary (Special Edition) [VHS]\"、\"Girl, Interrupted [VHS]\"、\"Peter Pan (45th Anniversary Limited Edition) [VHS]\"、\"Bring It on [VHS]\"、\"Scream 2\"、\"Dude, Where's My Car?\"、\"Cheaters\"、\"Crazy/ Beautiful\"、\"Sugar &amp; Spice\"、\"Loser\"\nTarget Music: \"Peter Pan (45th Anniversary Limited Edition) [VHS]\"\nSimilarity Score: 0.8833\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Gangs of New York (Two-Disc Collector's Edition)\"、\"Memoirs of a Geisha\"、\"The Lover [VHS]\"、\"Woodstock - 3 Days of Peace &amp; Music (The Director's Cut)\"、\"Monty Python and the Holy Grail\"、\"36 Fillette\"、\"Rashomon [VHS]\"、\"Star Wars: Episode III - Revenge of the Sith (Widescreen Edition)\"、\"Harakiri [VHS]\"、\"Dreams [VHS]\"、\"Brokeback Mountain\"\nTarget Music: \"A Morning Raga / An Evening Raga\"\nSimilarity Score: 0.7431\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Phantasm II [VHS]\"、\"Let Sleeping Corpses Lie\"、\"South Park - The Complete First Season\"、\"Zombie [VHS]\"、\"Dead Alive\"、\"The Jackhammer Massacre\"、\"Wilderness\"、\"South Park - The Complete Second Season\"、\"South Park: Season 3\"\nTarget Music: \"Life Is Killing Me\"\nSimilarity Score: 0.6880\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Cult - Live Cult (Music Without Fear)\"、\"New York Dolls - All Dolled Up\"、\"John Mayall and the Bluesbreakers - 70th Birthday Concert\"、\"Concert for George\"、\"VH1 Storytellers - Billy Idol\"、\"AC/DC: Stiff Upper Lip Live\"、\"Memento [VHS]\"、\"The Complete Monty Python's Flying Circus\"、\"Judas Priest - Live in London\"、\"School of Rock (Full Screen Edition)\"、\"Gettysburg [VHS]\"、\"Joan Jett and the Blackhearts - Live!\"、\"Sammy Hagar &amp; the Waboritas - Cabo Wabo Birthday Bash Tour\"、\"Gary Moore: Live at Monsters of Rock\"、\"The Lord of the Rings: The Return of the King (Two-Disc Widescreen Theatrical Edition)\"、\"Monty Python and the Holy Grail\"、\"Foghat Live - Two Centuries of Boogie\"、\"Iggy and the Stooges - Live in Detroit\"、\"Mot&ouml;rhead - Stage Fright DVD\"、\"Classic Albums - The Who: Who's Next\"\nTarget Music: \"Unmasked\"\nSimilarity Score: 0.6811\n",
+    "output": "2.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Ray Charles - O Genio - Live in Brazil 1963\"、\"Jazz on a Summer's Day [VHS]\"、\"Let's Get Lost [VHS]\"、\"Billie Holiday - Ultimate Collection\"、\"Nina Simone - Live at Montreux 1976\"、\"The Last of the Blue Devils - The Kansas City Jazz Story\"、\"My Voyage to Italy\"、\"The American Folk Blues Festival 1962-1966, Vol. 1\"、\"La Jetee / Sans Soleil [Non-US Format, PAL, Region 2, Import]\"、\"Jazz Icons: Ella Fitzgerald Live in '57 and '63\"、\"The American Folk Blues Festival 1962-1966, Vol. 2\"、\"Jazz - A Film by Ken Burns\"、\"Jazz Masters: Vintage Collection - 1958-1961\"、\"Sarah Vaughan: The Divine One [VHS]\"、\"Jazz Icons: Chet Baker Live in '64 and '79\"、\"Norman Granz Jazz In Montreux Presents Oscar Peterson Trio '77\"、\"Carmen McRae/Manhattan Transfer - Double Time Jazz Collection, Vol. 1\"\nTarget Music: \"Complete Town Hall Concert\"\nSimilarity Score: 0.6272\n",
+    "output": "2.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"A Mighty Wind\"、\"George Balanchine's The Nutcracker [VHS]\"、\"Water (2 DVD Special Edition)\"、\"Lassie  (Widescreen)\"、\"Wallace &amp; Gromit: The Curse of the Were-Rabbit (Widescreen Edition)\"、\"The Blue Angel [VHS]\"、\"Arrested Development: Season 1\"、\"Jacqueline du Pre In Portrait\"、\"Van Morrison: Live at Montreux 1980/1974\"、\"Japanese Story (Special Edition)\"、\"Best in Show\"、\"Stoned\"、\"Ambrose Bierce's An Occurence At Owl Creek Bridge [VHS]\"、\"Gram Parsons: Fallen Angel\"、\"The Queen\"、\"Midsummer Night's Dream [VHS]\"、\"Pennies from Heaven (1978 British Miniseries)\"\nTarget Music: \"Dylan &amp; The Dead\"\nSimilarity Score: 0.4723\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Midnight Special: Million Sellers\"、\"Frank Zappa - Baby Snakes\"、\"Iron Maiden-Rock in Rio\"、\"SNL - Best of John Belushi\"、\"Smoke &amp; Mirrors\"、\"The Outer Limits (The New Series) - Season One (1995)\"、\"Cemetery Man [VHS]\"、\"Kamelot: One Cold Winter's Night\"、\"The Outer Limits - The Original Series, Season 2\"、\"Supertramp - The Story So Far\"、\"AC/DC - Let There Be Rock [VHS]\"、\"Pan's Labyrinth (New Line Two-Disc Platinum Series)\"\nTarget Music: \"What Do You Want\"\nSimilarity Score: 0.8527\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Sir Arthur Conan Doyle's The Lost World - Season Two\"、\"Big Valley - Season 1\"、\"Abba - In Concert 1979\"、\"The Professionals\"、\"Songwriter [VHS]\"、\"8 Movie Western Pack V.4\"、\"Jefferson Airplane: Fly Jefferson Airplane\"、\"The King of Queens: Season 4\"、\"Waiting for Guffman [VHS]\"、\"The King of Queens: Season 2\"、\"Classic Albums - Meat Loaf: Bat out of Hell\"、\"The King of Queens: Season 7\"、\"Valley of the Dolls [VHS]\"、\"Elvis / Girl Happy [VHS]\"、\"VH1 Storytellers - Rod Stewart\"、\"Big Valley - Season 2, Volume 1\"、\"Blondie - VH-1 Behind the Music\"\nTarget Music: \"Classic Albums - Meat Loaf: Bat out of Hell\"\nSimilarity Score: 0.5989\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"On Her Majesty's Secret Service [VHS]\"、\"Three's Company: Season 5\"、\"Leeches\"、\"Bond: Spy Who Loved Me [VHS]\"、\"Alien Quadrilogy (Alien / Aliens / Alien 3 / Alien Resurrection)\"、\"Superman 2 [VHS]\"、\"Salem's Lot\"、\"West Side Story [VHS]\"、\"Duel in the Sun [VHS]\"、\"Showgirls\"、\"Moonraker THX Edition\"、\"Three's Company: Season 4\"、\"Bond: View to a Kill [VHS]\"、\"Marked Woman [VHS]\"、\"The Towering Inferno [VHS]\"、\"Thunderball [VHS]\"、\"Alien [VHS]\"、\"Hercules (Limited Edition)\"、\"300 (Two-Disc Special Edition)\"、\"The World Is Not Enough [VHS]\"\nTarget Music: \"Madonna\"\nSimilarity Score: 0.7285\n",
+    "output": "3.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Sound of Music [VHS]\"、\"Endangered Species\"、\"Patton [VHS]\"、\"King Kong (Widescreen Edition)\"、\"3:10 to Yuma [Theatrical Release]\"、\"Split Second [VHS]\"、\"The Last Voyage [VHS]\"、\"Mel Brooks Collector Set [VHS]\"、\"V: The Complete Series\"、\"Planet of the Apes Collection (Widescreen Edition) [VHS]\"、\"M*A*S*H [VHS]\"、\"The Wizard of Oz\"、\"Austin Powers: International Man of Mystery/The Spy Who Shagged Me/Goldmember\"、\"Julie [VHS]\"\nTarget Music: \"By Request / Sing to Me Mr C\"\nSimilarity Score: 0.1413\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Burn the Floor\"、\"The Land Before Time\"、\"Little Women (Collector's Series)\"、\"Rebecca [VHS]\"、\"I Dood It [VHS]\"、\"Cosmic Voyage (IMAX)\"、\"Indochine [VHS]\"、\"Stuck On You (Widescreen Edition)\"、\"Barefoot Contessa [VHS]\"\nTarget Music: \"Little Women: Original Motion Picture Soundtrack\"\nSimilarity Score: 0.5404\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Indochine [VHS]\"、\"Belle De Jour [VHS]\"、\"Jeffrey [VHS]\"、\"A League of Their Own [VHS]\"、\"The Umbrellas of Cherbourg [VHS]\"、\"Wigstock: The Movie [VHS]\"、\"Gidget 2: Gidget-A-Go-Go [VHS]\"、\"Small Wonder: Season 1\"、\"Sister Act [VHS]\"、\"The Closet\"、\"The Joy Luck Club [VHS]\"、\"The Wizard of Oz\"、\"Divine Secrets of the Ya-Ya Sisterhood [VHS]\"、\"Bean: The Movie [VHS]\"、\"The Carol Burnett Show - Show Stoppers\"、\"The Eyes of Tammy Faye\"、\"Mrs Doubtfire [VHS]\"、\"Carrie\"、\"Patch Adams - DTS\"、\"Wonder Woman: Season 1\"\nTarget Music: \"Unforgettable\"\nSimilarity Score: 0.6932\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Robbie Williams - Live at the Albert\"、\"Alice in Chains - MTV Unplugged\"、\"The Robbie Williams Show\"、\"Mana - MTV Unplugged\"、\"VH1 Storytellers - Billy Idol\"、\"Alanis Morissette - VH1 Storytellers\"、\"Robbie Williams - Angels\"、\"Shakira - MTV Unplugged\"、\"Sepultura - Chaos\"、\"Collective Soul: Home\"\nTarget Music: \"Sepultura - Chaos\"\nSimilarity Score: 0.6863\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Kathy Smith - Secrets of a Great Body Total Workout, Vol. 1 - Upper Body [VHS]\"、\"Salsa Dance DVD Video SalsaCrazy Series, Volume 1 - Salsa Dancing Guide for Beginners - Step by Step Dance Club Lesson\"、\"Monty Python and the Holy Grail\"、\"Aerosmith: Big Ones You Can Look at [VHS]\"、\"Jane Fonda's Favorite Fat Burners [VHS]\"、\"Jane Fonda's Lower Body Solution [VHS]\"、\"Mary Poppins [VHS]\"、\"Bedknobs &amp; Broomsticks [VHS]\"、\"Monty Python's Life of Brian (The Criterion Collection)\"、\"Erin Brockovich [VHS]\"、\"Jane Fonda's Step Aerobic and Abdominal Workout [VHS]\"、\"The Green Mile [VHS]\"\nTarget Music: \"Ten Summoner's Tales\"\nSimilarity Score: 0.9184\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"How to Beat the High Cost of Living\"、\"Looking for Mr. Goodbar [VHS]\"、\"Norma Jean &amp; Marilyn [VHS]\"、\"Freebie and The Bean [VHS]\"、\"Magic [VHS]\"、\"The Nomi Song - The Klaus Nomi Odyssey\"、\"Breakfast on Pluto\"、\"Secrets &amp; Lies [VHS]\"、\"All Or Nothing (2002)\"、\"The Tomorrow Show - Punk &amp; New Wave\"、\"Maurice [VHS]\"、\"Stepford Wives [VHS]\"、\"Funny Face [VHS]\"、\"The Shining [VHS]\"、\"Mahogany [VHS]\"、\"Benny's Video\"、\"The Jam - The Complete Jam\"、\"Gay Sex in the 70s\"\nTarget Music: \"Tour De France Soundtracks\"\nSimilarity Score: 0.6525\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Star Wars - Episode IV, A New Hope [VHS]\"、\"The Simpsons: The Complete First Season\"、\"Just Shoot Me - Seasons One and Two\"、\"A Knight's Tale (Special Edition)\"、\"Star Trek Voyager - The Complete Fourth Season\"、\"Tenchi Muyo in Love [VHS]\"、\"Star Trek Voyager - The Complete Seventh Season\"、\"Bringing Up Baby [VHS]\"、\"Ranma 1/2 - The Digital Dojo - The Complete First Season (Box Set)\"、\"Fifth Element [VHS]\"、\"Tenchi Movie 2: Daughter of Darkness [VHS]\"、\"Tenchi Muyo - OVA DVD Boxed Set\"、\"Harry Potter &amp; Sorcerer's Stone [VHS]\"、\"The Muppet Christmas Carol  [VHS]\"、\"Ranma 1/2 - Outta Control - The Complete Fourth Season Boxed Set\"、\"I Was a Male War Bride [VHS]\"、\"Ranma 1/2 - The Movie 2, Nihao My Concubine\"、\"Hackers [VHS]\"、\"Singin' in the Rain [VHS]\"、\"Out Cold\"\nTarget Music: \"Rock Steady\"\nSimilarity Score: 0.7244\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Cecil B. DeMille Collection (Cleopatra/ The Crusades/ Four Frightened People/ Sign of the Cross/ Union Pacific)\"、\"Copacabana\"、\"Stand By Me [VHS]\"、\"The House On Sorority Row\"、\"The Fighting Seabees\"、\"True Grit [VHS]\"、\"Bedford Incident [VHS]\"、\"Play Misty for Me [VHS]\"、\"Norma Rae\"、\"I Love Lucy - The Complete First Season\"、\"Black Hawk Down [VHS]\"、\"The Final Countdown [VHS]\"、\"The Bridges of Madison County (Full Screen Edition)\"、\"St. Elsewhere - Season 1\"、\"The Passion of the Christ\"、\"The Honeymooners Classic 39 Collection [VHS]\"、\"Sunset Boulevard [VHS]\"、\"Starman\"、\"The Gettysburg Story: 150th Anniversary Edition DVD\"\nTarget Music: \"Stand By Me: Original Motion Picture Soundtrack\"\nSimilarity Score: 0.2259\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"What Women Want\"、\"Twin Peaks: Season 2\"、\"One Night at McCool's\"、\"Twin Peaks: Episodes 1-29 [VHS]\"、\"The River (Jean Renoir) [VHS]\"、\"Dude, Where's My Car?\"、\"Heathers [VHS]\"、\"Bridget Jones's Diary\"、\"Lost in Translation\"、\"GoodFellas\"\nTarget Music: \"Double Fantasy\"\nSimilarity Score: 0.8821\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Tom and Jerry - Spotlight Collection, Volume 2\"、\"The Addams Family: Volume Two\"、\"The Simpsons - The Complete Second Season\"、\"The Simpsons: The Complete First Season\"、\"The Simpsons - The Complete Fifth Season collector's ed [DVD] [1993]\"、\"Addams Family, Vol. 3 [VHS]\"、\"The Simpsons: Season 6\"、\"Futurama: Volume Four\"、\"Looney Tunes: Golden Collection, Vol. 2\"、\"The Simpsons - The Complete Third Season\"、\"Futurama: Volume Two\"、\"Whose Line Is it Anyway?: Season 1, Volume One (Uncensored)\"、\"Futurama: Volume One\"、\"The Ren &amp; Stimpy Show: The First and Second Season (Uncut)\"、\"The Simpsons - The Complete Fourth Season\"、\"Looney Tunes: Golden Collection, Vol. 1\"、\"The Simpsons - The Complete Seventh Season (Collectible Marge Head Pack)\"、\"Looney Tunes: Golden Collection, Vol. 3\"、\"The Simpsons - The Complete Eighth Season\"、\"The Simpsons - The Complete Ninth Season\"\nTarget Music: \"Ruun\"\nSimilarity Score: 0.5910\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Wild Style\"、\"Under the Cherry Moon [VHS]\"、\"An Evening with Kevin Smith\"、\"Made\"、\"My Big Fat Greek Wedding\"、\"Swingers(wide screen)\"、\"Trick Or Treat [VHS]\"、\"Slums of Beverly Hills [VHS]\"、\"Detroit Rock City [VHS]\"、\"Bamboozled [VHS]\"、\"Jackie Brown [VHS]\"、\"Battlefield Earth [VHS]\"、\"American Movie [VHS]\"\nTarget Music: \"Superfly (25th Anniversary Deluxe Ed.)\"\nSimilarity Score: 0.8884\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Sling Blade [VHS]\"、\"Producers [VHS]\"、\"The Piano\"、\"You've Got Mail [VHS]\"、\"Conspiracy Theory [VHS]\"、\"American History X [VHS]\"、\"My Life [VHS]\"、\"Barbershop (Special Edition)\"、\"West Side Story [VHS]\"、\"Oz: Season 1\"、\"Do the Right Thing\"、\"Say Anything [VHS]\"、\"Grumpy Old Men\"、\"Waiting to Exhale [VHS]\"、\"Willy Wonka &amp; Chocolate Factory [VHS]\"、\"Oz: Season 2\"、\"Small Time Crooks [VHS]\"、\"Twister\"\nTarget Music: \"Beats Rhymes &amp; Life\"\nSimilarity Score: 0.7379\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Butterfly Effect (Infinifilm Edition)\"、\"The Last Samurai (Full Screen Edition)\"、\"Walking Tall\"、\"Along Came a Spider [VHS]\"、\"Bad Boys [VHS]\"、\"GoodFellas\"、\"Bad Boys II (Two-Disc Special Edition)\"、\"Menace II Society\"、\"The Wire: Season 2\"、\"The Wire: Season 1\"、\"Harold &amp; Kumar Go to White Castle (Rated Edition)\"\nTarget Music: \"Blueprint 2: The Gift &amp; The Curse\"\nSimilarity Score: 0.7280\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Sky Captain and the World of Tomorrow (Widescreen Special Collector's Edition)\"、\"Star Wars: Clone Wars - Volume One\"、\"Social Distortion - Live in Orange County\"、\"The Kids in the Hall - Complete Season 1 (1989-1990)\"、\"This Is Spinal Tap (The Criterion Collection)\"、\"Lost in Translation\"、\"The Brak Show, Vol. 1\"、\"The Ninth Gate\"、\"Blade Runner (The Director's Cut)\"、\"The Young Ones: Every Stoopid Episode\"\nTarget Music: \"Controversy\"\nSimilarity Score: 0.7885\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Garden State\"、\"Mean Girls (Widescreen Edition)\"、\"Lolita\"、\"The Pianist\"、\"To Kill a Mockingbird (Widescreen) [VHS]\"、\"The Butterfly Effect (Infinifilm Edition)\"、\"Lost in Translation\"、\"Blood Diamond (Two-Disc Special Edition)\"、\"Hotel Rwanda (2004)\"、\"The Passion of the Christ\"、\"Spice World\"\nTarget Music: \"Dedicated\"\nSimilarity Score: 0.5326\n",
+    "output": "3.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"WWE: Hollywood Hulk Hogan - Hulk Still Rules\"、\"Transformers: Season 1 (Collector's Edition)\"、\"Hanson: Underneath Acoustic Live [Region 2]\"、\"Chasing Amy [VHS]\"、\"The Weird Al Show - The Complete Series\"、\"The Simpsons - The Complete Fifth Season collector's ed [DVD] [1993]\"、\"The Simpsons - The Complete Fourth Season\"、\"A Mighty Wind\"、\"Rocky Gift Set [VHS]\"\nTarget Music: \"Dead Again\"\nSimilarity Score: 0.8946\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Sid &amp; Nancy [VHS]\"、\"Tess [VHS]\"、\"Sleuth\"、\"Romeo Is Bleeding [VHS]\"、\"Take the Money and Run [VHS]\"、\"My Fair Lady (digitally THX mastered) [VHS]\"、\"The Man Who Would Be King [VHS]\"、\"South Pacific [VHS]\"、\"Roman Holiday [VHS]\"\nTarget Music: \"Days of Future Passed\"\nSimilarity Score: 0.9226\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Astronaut Farmer\"、\"The Producers\"、\"Find Me Guilty\"、\"Holes (Widescreen Edition)\"、\"Paradise Now\"、\"Archangel\"、\"They Live\"、\"The Queen\"、\"The Twilight Zone: Season 5\"、\"Apocalypto (2006) (2007) Rudy Youngblood; Raoul Trujillo; Mel Gibson\"、\"Westworld [VHS]\"、\"Miami Vice (Widescreen Edition)\"、\"The Lake House (Widescreen Edition)\"、\"The Twilight Zone - Season 1 (The Definitive Edition)\"、\"Omar Khayyam [VHS]\"、\"Space 1999 Megaset\"、\"Blood Diamond (Two-Disc Special Edition)\"、\"Traitor\"、\"Serenity (Widescreen Edition)\"\nTarget Music: \"Trouble\"\nSimilarity Score: 0.7956\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Three's Company: Season 1\"、\"Madonna - The Immaculate Collection\"、\"Misery [VHS]\"、\"The Concert For New York City\"、\"Saturday Night Live - Halloween\"、\"The Beach Boys: Good Timin'- Live at Knebworth, England 1980\"、\"Saturday Night Live - The Best of Steve Martin\"、\"Lethal Weapon: The Complete Series\"、\"Wayne's World 1 &amp; 2 - The Complete Epic\"、\"The Omen Collection\"、\"Beach Boys - An American Band / Brian Wilson - I Just Wasn't Made for These Times\"、\"Planes, Trains And Automobiles [VHS]\"、\"North by Northwest - Special Edition [VHS]\"、\"Frenzy [VHS]\"、\"Saturday Night Live - The Best of Mike Myers\"、\"Saturday Night Live: The Best of Dana Carvey [VHS]\"、\"The Simpsons - Christmas\"、\"Saturday Night Live - The Best of Phil Hartman\"、\"Air Force One\"、\"The Omen [VHS]\"\nTarget Music: \"Elvis on Tour [VHS]\"\nSimilarity Score: 0.7539\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Full Metal Jacket [VHS]\"、\"The Longest Day [VHS]\"、\"We Were Soldiers (Widescreen Edition)\"、\"The Incredibles (Mandarin Chinese Edition)\"、\"The Short Films of David Lynch\"、\"Pulp Fiction\"、\"Singin' in the Rain [VHS]\"、\"Jackie Brown [VHS]\"、\"The Matrix\"、\"Tae Guk Gi - The Brotherhood of War\"、\"The Big Red One [VHS]\"、\"Eraserhead\"、\"Meet the Feebles [VHS]\"、\"Dark City [VHS]\"、\"Born on the Fourth of July\"、\"Killer Klowns From Outer Space [VHS]\"、\"Saints &amp; Soldiers\"、\"Dazed and Confused\"、\"300 (Two-Disc Special Edition)\"、\"One Flew Over the Cuckoo's Nest\"\nTarget Music: \"No Depression\"\nSimilarity Score: 0.8719\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Fugitive\"、\"Terminator 3: Rise of the Machines (Two-Disc Widescreen Edition)\"、\"Rush Hour [VHS]\"、\"The First Wives Club [VHS]\"、\"Cliffhanger\"、\"Stargate [VHS]\"、\"True Lies\"、\"The Matrix\"、\"Demolition Man [VHS]\"、\"Spider-Man (Widescreen Special Edition)\"\nTarget Music: \"Fefe Dobson\"\nSimilarity Score: 0.5907\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Ravenous [VHS]\"、\"Caddyshack - 19th Anniversary Edition [VHS]\"、\"Fear of the Dark\"、\"Ernest Saves Christmas [VHS]\"、\"Casino\"、\"Leprechaun in the Hood [VHS]\"、\"Eddie Murphy - Raw [VHS]\"、\"The Amityville Horror (Widescreen/Full Screen)\"、\"Tales From the Darkside [VHS]\"、\"House on Haunted Hill [VHS]\"、\"A Boy &amp; His Dog [VHS]\"\nTarget Music: \"N Sync\"\nSimilarity Score: 0.4921\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Triumph of the Will [VHS]\"、\"Gus Van Sant's Last Days\"、\"Welcome to the Dollhouse\"、\"Short 5 - Diversity\"、\"The Adventures of Baron Munchausen\"、\"Malcolm X [VHS]\"、\"Faces of Death 3 [VHS]\"、\"Happiness [VHS]\"、\"Vernon, Florida [VHS]\"、\"Twin Peaks: Season 2\"、\"Serial [VHS]\"、\"Last Year at Marienbad [VHS]\"\nTarget Music: \"Magical Mystery Tour\"\nSimilarity Score: 0.9630\n",
+    "output": "1.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Tom and Jerry - Spotlight Collection, Volume 2\"、\"The Addams Family: Volume Two\"、\"The Simpsons - The Complete Second Season\"、\"The Simpsons: The Complete First Season\"、\"The Simpsons - The Complete Fifth Season collector's ed [DVD] [1993]\"、\"Addams Family, Vol. 3 [VHS]\"、\"The Simpsons: Season 6\"、\"Futurama: Volume Four\"、\"Looney Tunes: Golden Collection, Vol. 2\"、\"The Simpsons - The Complete Third Season\"、\"Futurama: Volume Two\"、\"Whose Line Is it Anyway?: Season 1, Volume One (Uncensored)\"、\"Futurama: Volume One\"、\"The Ren &amp; Stimpy Show: The First and Second Season (Uncut)\"、\"The Simpsons - The Complete Fourth Season\"、\"Looney Tunes: Golden Collection, Vol. 1\"、\"The Simpsons - The Complete Seventh Season (Collectible Marge Head Pack)\"、\"Looney Tunes: Golden Collection, Vol. 3\"、\"The Simpsons - The Complete Eighth Season\"、\"The Simpsons - The Complete Ninth Season\"\nTarget Music: \"Audioslave\"\nSimilarity Score: 0.8868\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Pom Poko\"、\"Akira [VHS]\"、\"Porco Rosso\"、\"The Cat Returns\"、\"Nausica&auml; of the Valley of the Wind\"、\"Castle of Cagliostro [VHS]\"、\"Princess Mononoke\"、\"Castle in the Sky [VHS]\"、\"Les Miserables\"、\"Steamboy: Director's Cut\"、\"Metropolis\"、\"Whisper of the Heart\"\nTarget Music: \"The Singles 81&gt;85\"\nSimilarity Score: 0.6914\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The X-Files - The Complete Fifth Season\"、\"Running Scared\"、\"The X-Files - The Complete First Season\"、\"The X-Files - The Complete Third Season\"、\"The X-Files - The Complete Second Season\"、\"Rush - R30\"、\"Skindeep [VHS]\"、\"The Family Man (Widescreen Collector's Edition)\"、\"The Ninth Gate\"\nTarget Music: \"Morph the Cat\"\nSimilarity Score: 0.9201\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Easy Rider [VHS]\"、\"Rock 'n' Roll Greats: Mark Farner - In Concert\"、\"Dances with Wolves - DTS\"、\"Brian Wilson On Tour\"、\"Running Scared\"、\"Carly Simon - A Moonlight Serenade On The Queen Mary 2\"、\"The Searchers [VHS]\"、\"Lennon Legend - The Very Best of John Lennon\"、\"The Shining [VHS]\"、\"W.C. Fields: 6 Short Films (The Golf Specialist / Pool Sharks / The Pharmacist / The Fatal Glass of Beer / The Barber Shop / The Dentist) (The Criterion Collection)\"、\"The Four Complete Historic Ed Sullivan Shows Featuring the Beatles\"、\"Freebird/Tribute Tour\"、\"Classic Albums - The Who: Who's Next\"、\"Two-Lane Blacktop (Limited Edition Tin Case Packaging)\"、\"The Who - The Kids Are Alright [VHS]\"\nTarget Music: \"One More Try: An Anthology\"\nSimilarity Score: 0.6358\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Female Trouble [VHS]\"、\"The Supremes - Reflections: The Definitive DVD Collection\"、\"I Love Lucy - The Complete Fifth Season\"、\"Sid &amp; Nancy [VHS]\"、\"Desperate Living [VHS]\"、\"National Lampoon's Vacation (Full Screen Edition)\"、\"My Boyfriend's Back\"、\"Get Ready: Definitive Performances 1965-1972 [DVD] - The Temptations\"、\"Mommie Dearest [VHS]\"、\"Brokeback Mountain\"、\"The Eyes of Tammy Faye\"、\"Coffy [VHS]\"、\"Life with Judy Garland - Me and My Shadows\"、\"My Best Friend's Wedding\"、\"Showgirls\"、\"The Go-Go's - Live in Central Park\"、\"Cleopatra Jones\"、\"Carrie\"、\"I Love Lucy - The Complete Second Season\"\nTarget Music: \"Light Years\"\nSimilarity Score: 0.4917\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Star Trek - The Next Generation, Episode 163: Parallels [VHS]\"、\"Mrs Henderson Presents [DVD][Region 2 - Non USA Format] [UK Import]\"、\"Testament [VHS]\"、\"The Devil's Arithmetic [VHS]\"、\"Children of Paradise [VHS]\"、\"Star Trek - The Next Generation, Episode 35: The Measure Of A Man [VHS]\"、\"Star Trek - The Next Generation, Episode 3: The Naked Now [VHS]\"、\"A Christmas Carol (Colorized) [VHS]\"、\"They Came Back\"\nTarget Music: \"Golden Classics\"\nSimilarity Score: 0.5699\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Breathless\"、\"Los Olvidados [VHS]\"、\"The Great Texas Dynamite Chase\"、\"Nashville\"、\"The Century of the Self by Adam Curtis, producer of Power of Nightmares\"、\"H.R. Pufnstuf - The Complete Series\"、\"Lola Montes\"、\"Deadly Weapons / Double Agent 73 (Special Edition)\"、\"Assassination Bureau [VHS]\"、\"Body Double\"、\"Tommy\"、\"Star Wars - Episode I, The Phantom Menace [VHS]\"、\"Manos, the Hands of Fate\"、\"Raising Cain\"、\"Flash Gordon [VHS]\"、\"Delinquents [Region 4]\"、\"Man of the West [VHS]\"、\"Doctor Who: Daleks Invasion of Earth 2150 Ad [VHS]\"、\"Sisters (The Criterion Collection)\"、\"Heart Beat [VHS]\"\nTarget Music: \"Electric Warrior\"\nSimilarity Score: 0.8550\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Who - Tommy and Quadrophenia Live\"、\"Murderball\"、\"Tony Joe White - Live from Austin, TX\"、\"Texas Tornados - Live From Austin Tx\"、\"An Inconvenient Truth\"、\"The Right Spectacle: The Very Best of Elvis Costello - The Videos\"、\"Veronica Mars: Season 1\"、\"Reds [VHS]\"、\"Rescue Me: Season 2\"、\"Walk the Line (Two-Disc Special Edition)\"、\"Arrested Development: Season 2\"、\"Cinderella Man (Widescreen Edition)\"、\"The Wages of Fear (The Criterion Collection)\"、\"Hustle &amp; Flow (Widescreen Edition)\"、\"House, M.D.: Season 1\"、\"Le Samourai [VHS]\"、\"Lost - The Complete First Season\"、\"The 40-Year-Old Virgin (Unrated Widescreen Edition)\"、\"Seinfeld - Seasons 5 &amp; 6 Giftset (Includes Handwritten Script and Collectible Miniature Puffy Shirt)\"、\"Yeah Yeah Yeahs: Tell Me What Rockers to Swallow\"\nTarget Music: \"Curtain Call\"\nSimilarity Score: 0.6007\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Unfaithful (Widescreen Edition)\"、\"Northern Exposure - The Complete First Season\"、\"Wild at Heart [VHS]\"、\"Twin Peaks -  Premiere Episode [VHS]\"、\"Fantastic Four (Widescreen Edition)\"、\"Tapeheads\"、\"Superman the Movie [VHS]\"、\"Mean Girls (Widescreen Edition)\"、\"Coldplay - Live 2003 (DVD &amp; CD)\"、\"Bad Santa\"、\"Aerosmith: Big Ones You Can Look at [VHS]\"、\"Requiem for a Dream - Director's Cut\"、\"Tenacious D - The Complete Master Works\"、\"Shameless: Season 1\"\nTarget Music: \"Back in the High Life\"\nSimilarity Score: 0.7115\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Halloween\"、\"Duran Duran - Greatest - The Videos (1999) [VHS]\"、\"Very Best of\"、\"The Thing - Collector's Edition\"、\"The Player (Special Edition) (New Line Platinum Series)\"、\"Midnight Cowboy\"、\"The Exorcist\"、\"The Parallax View [VHS]\"、\"Peter Gabriel - Growing Up Live\"、\"To Live and Die in L.a. [VHS]\"、\"Parenthood\"、\"The Color Purple\"、\"The Fly [VHS]\"、\"Leaving Las Vegas\"、\"Naked Lunch [VHS]\"、\"PET SHOP BOYS - POP ART\"、\"Raiders of the Lost Ark (Widescreen Edition) [VHS]\"、\"Erasure - Hits! The Videos\"、\"I'm Only Looking - The Best of INXS\"\nTarget Music: \"O, Yeah! Ultimate Aerosmith Hits\"\nSimilarity Score: 0.7906\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Kirov Celebrates Nijinsky / Sheherazade, La Spectre de la Rose, The Polovtsian Dances, The Firebird\"、\"Amelie\"、\"Delibes - Sylvia / Aurelie Dupont, Manuel Legris, Nicolas Le Riche, Marie-Agnes Gillot, Jose Martinez, Paris Opera Ballet\"、\"The Dancer\"、\"The Day the Earth Stood Still [VHS]\"、\"Adam - Giselle / Malakhov, Vasileva, Kremlin State Theatre Ballet Academy\"、\"A Short Film About Love\"、\"Company Business [VHS]\"、\"Children of Theatre Street [VHS]\"、\"Doctor Who: First Season, Vol. 3\"、\"Fonteyn and Nureyev: The Perfect Partnership [VHS]\"、\"Ballets Russes\"、\"Gaite Parisienne\"、\"Lacotte - La Sylphide / Aurelie Dupont, Mathieu Ganio, Melanie Hurel, Jean-Marie Didiere, Ermanna Floria, Paris Opera Ballet\"、\"White Nights [VHS]\"\nTarget Music: \"Children of Theatre Street [VHS]\"\nSimilarity Score: 0.4386\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Strange Invaders/Invaders From Mars\"、\"Dead and Breakfast (Unrated Edition)\"、\"Trilogy of Terror\"、\"Masters of Horror - Dario Argento - Jenifer\"、\"Psycho 3\"、\"The Boogeyman\"、\"The Sentinel\"、\"Psycho II [VHS]\"、\"Chillers [VHS]\"、\"Abominable\"、\"Detour\"、\"Road Games [VHS]\"、\"Dead Men Walking\"、\"Xtro [VHS]\"\nTarget Music: \"Rites Of Passage\"\nSimilarity Score: 0.5358\n",
+    "output": "3.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"While You Were Sleeping [VHS]\"、\"Rocky &amp; Bullwinkle &amp; Friends: Complete Season 1\"、\"Lilo &amp; Stitch 2: Stitch Has a Glitch\"、\"Matt Helm Lounge\"、\"Airplane [VHS]\"、\"Toy Story &amp; Toy Story 2 (2 Pack)\"、\"The Addams Family / Addams Family Values\"、\"The Rutles - All You Need is Cash\"、\"Metropolis (Moroder version) [VHS]\"、\"Tampopo [VHS]\"、\"My Name is Earl: Season 1\"、\"A Fistful of Dollars [VHS]\"、\"The Hitchhiker's Guide to the Galaxy (Full Screen Edition)\"、\"From the Earth to the Moon (Four Disc Collector's Edition)\"、\"2001: A Space Odyssey [VHS]\"\nTarget Music: \"Feedback\"\nSimilarity Score: 0.8832\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Just Around the Corner [VHS]\"、\"Little Miss Broadway [VHS]\"、\"Boarding House Blues\"、\"Rosalie [VHS]\"、\"Meredith Willson's The Music Man (TV Film) [VHS]\"、\"The Best of Abbott &amp; Costello, Vol. 2 (Hit the Ice / In Society / Here Come the Co-Eds / The Naughty Nineties / Little Giant / The Time of Their Lives / Buck Privates Come Home / The Wistful Widow of Wagon Gap)\"、\"Duchess of Idaho [VHS]\"、\"Calamity Jane [VHS]\"、\"Ship Ahoy [VHS]\"、\"Gigi [VHS]\"、\"Texas Carnival [VHS]\"、\"Annie (Widescreen Edition)\"、\"An Evening with Nat King Cole\"、\"Melody Ranch\"、\"The Fountainhead [VHS]\"、\"The Jack Paar Collection\"、\"Xanadu [VHS]\"、\"Hellcats of the Navy\"、\"Lovely to Look at [VHS]\"、\"Rebecca of Sunnybrook Farm\"\nTarget Music: \"The Beatles: 1962-1966 (The Red Album)\"\nSimilarity Score: 0.7835\n",
+    "output": "4.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Law &amp; Order: The Fourteenth Year\"、\"Blade Runner (The Director's Cut)\"、\"Office Space [VHS]\"、\"Tess [VHS]\"、\"Medea\"、\"Little Fish\"、\"Romy &amp; Michelle's High School Reunion [VHS]\"、\"Madonna - Ciao Italia: Live from Italy\"、\"My Name is Earl: Season 1\"、\"Just Shoot Me - Seasons One and Two\"、\"Inside Man (Full Screen Edition) (2006)\"、\"Sybil\"、\"Masterpiece Theater: Anna Karenina [VHS]\"、\"Cries and Whispers [VHS]\"、\"Tess of D'Urbervilles [VHS]\"、\"Jurassic Park (Widescreen Edition) [VHS]\"、\"Proof\"、\"Derailed (Unrated Widescreen)\"、\"A Little Trip to Heaven\"、\"Return of the Native [VHS]\"\nTarget Music: \"Madonna - Ciao Italia: Live from Italy\"\nSimilarity Score: 0.7477\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Toy Story &amp; Toy Story 2 (2 Pack)\"、\"Akira [VHS]\"、\"Yi Yi: A One and a Two\"、\"A Clockwork Orange\"、\"Almost Famous\"、\"Office Space [VHS]\"、\"Lost and Delirious\"、\"Amelie\"、\"Before Sunrise [VHS]\"、\"Dick [VHS]\"、\"Heartbreakers [VHS]\"、\"Super Bowl XXXVI - New England Patriots Championship Video\"、\"Moulin Rouge (Two-Disc Collector's Edition)\"、\"Buffy The Vampire Slayer - The Complete First Season\"、\"Crouching Tiger, Hidden Dragon [VHS]\"、\"Gia (unrated edition) [VHS]\"、\"Girlfight [VHS]\"、\"All About My Mother [VHS]\"、\"Memento [VHS]\"、\"The Forsaken\"\nTarget Music: \"Gorillaz [Vinyl]\"\nSimilarity Score: 0.9185\n",
+    "output": "2.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"The Blue Angel [VHS]\"、\"He Walked By Night [VHS]\"、\"Naked City\"、\"Body &amp; Soul [VHS]\"、\"The Big Clock [VHS]\"、\"The Hoodlum\"、\"Mean Streets [VHS]\"、\"The Window [VHS]\"、\"Mildred Pierce [VHS]\"、\"The Chase\"、\"Moby Dick [VHS]\"、\"Gettysburg [VHS]\"、\"Amistad (Widescreen Edition) [VHS]\"、\"Big Sky [VHS]\"、\"Dark Passage [VHS]\"、\"Factotum\"、\"Raging Bull\"、\"Hell Drivers [Region 2]\"、\"Thieves' Highway (The Criterion Collection)\"、\"Walk on the Wild Side [VHS]\"\nTarget Music: \"Piano Sonatas Complete\"\nSimilarity Score: 0.0206\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Steely Dan - Two Against Nature - DTS 5.1\"、\"Bubba Ho-Tep (Slip) [VHS]\"、\"Taxi Driver (Special Edition) [VHS]\"、\"Polar Express\"、\"Die Hard [VHS]\"、\"The Prisoner - Set 2: Checkmate/ The Chimes of Big Ben/ A, B and C/ The General (Bonus)\"、\"The Prisoner - Set 1: Arrival/ Free For All/ Dance of the Dead\"、\"The Man Who Would Be King [VHS]\"、\"Sunset Boulevard [VHS]\"、\"The Prisoner - Set 3:  The Schizoid Man/Many Happy Returns/It's Your Funeral\"、\"The Terminator [VHS]\"、\"Monty Python and the Holy Grail\"、\"The Godfather Collection [VHS]\"\nTarget Music: \"Tomorrow's Sounds Today\"\nSimilarity Score: 0.8430\n",
+    "output": "5.0"
+  },
+  {
+    "instruction": "Given the user's preference in Movies and a similarity score between source‐domain history and the target music, predict how much the user will like the target music on a scale of 1 to 5.",
+    "input": "User Preference: \"Dallas: Season 5\"、\"Gas Food Lodging [VHS]\"、\"Dallas: The Complete First &amp; Second Seasons\"、\"The Good, the Bad and the Ugly [VHS]\"、\"Law &amp; Order: The First Year\"、\"Last Boy Scout [VHS]\"、\"Law &amp; Order - The Second Year\"、\"The Craft\"、\"The Black Sabbath Story, Vol. 1\"、\"Yes - Symphonic Live\"、\"M*A*S*H - Season Three (Collector's Edition)\"、\"In the Line of Fire [VHS]\"、\"What's Love Got To Do With It? [VHS]\"、\"GoodFellas\"、\"Dallas: Season 6\"、\"Dream Theater - Images and Words Live in Tokyo / 5 Years in a Live Time\"、\"Airheads\"、\"The Flintstones - The Complete Third Season\"、\"Dallas: Season 4\"、\"Yes - Keys to Ascension\"\nTarget Music: \"Cooper, Alice / Prime Cuts\"\nSimilarity Score: 0.6958\n",
+    "output": "5.0"
+  }
+]
